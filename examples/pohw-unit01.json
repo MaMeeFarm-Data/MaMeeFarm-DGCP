@@ -1,0 +1,15 @@
+{
+  "polife": {
+    "date": "2025-01-01",
+    "temperature_c": 23.5,
+    "event": "morning-check",
+    "notes": "Ducks are active. No visible injuries. Weather is mild."
+  },
+  "polabor": {
+    "date": "2025-01-01",
+    "task": "feeding-ducks",
+    "duration_minutes": 12,
+    "notes": "Fed all ducks with morning feed. Checked water levels."
+  },
+  "proof_hash": "sha256-example-hash-placeholder"
+}
