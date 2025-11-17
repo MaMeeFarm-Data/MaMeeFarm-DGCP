@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PoHW Unit",
+  "description": "Combined human work unit: PoLIFE + PoLABOR + Proof.",
+  "type": "object",
+  "properties": {
+    "polife": { "$ref": "polife-event.schema.json" },
+    "polabor": { "$ref": "polabor-task.schema.json" },
+    "proof_hash": { "type": "string" }
+  },
+  "required": ["polife", "polabor"],
+  "additionalProperties": false
+}
