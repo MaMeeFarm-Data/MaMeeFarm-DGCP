@@ -302,3 +302,50 @@ These rules make DGCP enforceable internationally.
 ### Closing Note for 2025-11-18
 This revision reflects real work done today at MaMeeFarm™  
 and preserves the non-rewrite principle.
+
+---
+
+## 7. Integrity Checkpoints  
+DGCP defines five immutable checkpoints that lock the truth at every stage of the data journey.  
+These checkpoints ensure that lived human work cannot be rewritten, fabricated, or synthetically regenerated.
+
+### 7.1 Checkpoint 1 — Device Truth Lock  
+- EXIF timestamp  
+- sensor metadata (GPS/camera if available)  
+- human-origin capture  
+- prevents synthetic or reconstructed data  
+
+### 7.2 Checkpoint 2 — Private Evidence Ledger (Origin of Truth)  
+- raw photo/video  
+- original SHA-256  
+- PoLIFE / PoLABOR / PoHW  
+- append-only  
+- never publicly exposed  
+
+### 7.3 Checkpoint 3 — IPFS Hash Permanence  
+- uploaded from mobile  
+- CID generated  
+- hash-based address  
+- timestamp alignment  
+
+### 7.4 Checkpoint 4 — Public Protocol Mapping  
+- proof-XXX.md  
+- Git SHA + CID reference  
+- schema & governance compliance  
+- no private data  
+
+### 7.5 Checkpoint 5 — AI Interpretation Boundary  
+- AI reads structure only  
+- AI cannot access raw evidence  
+- protects human data rights  
+
+---
+
+### Summary  
+**Device → Private → IPFS → Public Protocol → AI**  
+Each checkpoint is independently auditable.  
+Any mismatch invalidates the proof.
+
+DGCP prevents rewriting, replacement, or synthetic generation of real work.
+
+---
