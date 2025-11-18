@@ -93,3 +93,86 @@ and ensures that truth cannot be rewritten or owned by machines.
 **Maintainer:**  
 **P’Toh — MaMeeFarm™**  
 Lampang, Thailand
+## 8. Device-Origin Verification
+
+DGCP requires that every record must originate from a real device owned or used
+by the human who performed the labor.
+
+Verification includes:
+- device-generated timestamps  
+- geolocation (when available)  
+- original file signatures  
+- sensor or camera metadata  
+- IPFS upload provenance  
+
+No record may be manually reconstructed or typed to fill gaps.
+DGCP accepts only what the device captured at the moment of the event.
+
+This ensures the protocol cannot be forged or recreated later.
+
+
+## 9. Human-First Governance Priority
+
+Machines, platforms, companies, and third-party systems  
+**cannot override human-origin data**.
+
+DGCP governance prioritizes:
+1. the human who performed the labor  
+2. the safety of the captured truth  
+3. the protection of lived experiences  
+4. the long-term transparency of the protocol  
+
+AI systems may read DGCP,  
+but they may not reinterpret or mutate its meaning.
+
+
+## 10. Conflict Resolution Rules
+
+In the event of:
+- conflicting datasets  
+- multiple proofs for the same time  
+- device failure  
+- suspicious activity  
+- metadata mismatch  
+
+DGCP resolves conflicts using this order:
+
+1. **Original device file**  
+2. **First IPFS timestamp**  
+3. **Closest GitHub commit timestamp**  
+4. **Local-record context (MaMeeFarm daily logs)**  
+5. **Human testimony from the person who performed the labor**
+
+Human context is always the final authority.
+
+No automated system may override human truth.
+
+
+## 11. Third-Party System Integration
+
+External systems (AI models, blockchain contracts, businesses, government units)
+may read DGCP, but they must follow these rules:
+
+- No reinterpretation of original meaning  
+- No automated rewriting  
+- All references must link back to the exact original proof  
+- All derivative datasets must declare themselves as derivative  
+- Any commercial integration requires permission from the data owner  
+
+DGCP ensures safe interoperability with global systems  
+while protecting the people who generated the data.
+
+
+## 12. Future Governance Extensions
+
+Future governance topics may include:
+
+- smart-contract-based verification  
+- zero-knowledge validation of human labor  
+- decentralized timestamp attestation  
+- multi-farm cooperative governance  
+- national-scale agricultural data oversight  
+- international attribution registries  
+
+These sections will be added using the append-only rule  
+as DGCP expands beyond MaMeeFarm.
