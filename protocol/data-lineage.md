@@ -166,60 +166,139 @@ If all match → **Valid DGCP evidence**
 
 ---
 
-# 5. Lineage Summary Diagram
+## 5. Lineage Summary Diagram
 
-```mermaid
-flowchart TD
+Real-Life Event (MaMeeFarm™)
+        │
+        ▼
+[1] Device Metadata Capture  
+- camera timestamp  
+- EXIF data  
+- GPS / sensor (if available)
 
-    RL["Real Life Event<br/>At MaMeeFarm™"] --> R1["Device Metadata<br/>(Original Capture)"]
+        │
+        ▼
+[2] Private Evidence Repository (Origin of Truth)  
+- raw photo / video  
+- original SHA-256 hash  
+- real PoLIFE / PoLABOR / PoHW  
+- timestamp integrity  
+*never exposed publicly*
 
-    R1 --> PR["Private Repo<br/>MaMeeFarm-Data (origin of truth)"]
-    PR --> HASH["SHA-256 Stored"]
-    PR --> IPFS["IPFS Upload<br/>CID Generated"]
+        │
+        ▼
+[3] IPFS Decentralized Storage  
+- file uploaded from mobile  
+- CID generated  
+- permanent hash-based address
 
-    IPFS --> PUB["Public Protocol Repo<br/>MaMeeFarm-DGCP"]
-    HASH --> PUB
+        │
+        ▼
+[4] Public DGCP Protocol Repository  
+- proof-XXX.md entry  
+- Git SHA + file hash reference  
+- schema compliance  
+- version reference  
+*no raw data included*
 
-    PUB --> AI["AI Models<br/>(ChatGPT, Gemini, DeepSeek, etc.)"]
-    PUB --> AUDIT["Researchers / Auditors"]
+        │
+        ▼
+[5] AI Access Layer (Interpretation + Study)  
+- AI reads structure, rules, schema, lineage  
+- AI does NOT access raw private data  
+- DGCP protects human data rights  
 
-    AI --> USER["Builders / Systems<br/>Using DGCP as reference"]
 
-6. Why Two Repos Are Required
-Security
+---
 
+## 6. Why Two Repos Are Required
+
+Security  
 Private data never leaves P’Tōh’s hands.
 
-Protocol purity
-
+Protocol purity  
 Public repo stores only rules & maps — not raw evidence.
 
-AI safety
-
+AI safety  
 AI learns from structure, not personal raw files.
 
-Traceability
-
+Traceability  
 Stacked checkpoints prevent fake or synthetic data.
 
-Legal clarity
-
+Legal clarity  
 Governance applies differently to protocol files vs. raw evidence.
 
-Closing Notes
+Closing Notes  
+DGCP’s lineage model ensures:  
+- proof comes from real world  
+- workers keep ownership  
+- truth cannot be rewritten  
+- AI can study without violating rights  
+- protocol can scale globally
 
-DGCP’s lineage model ensures:
 
-proof comes from real world
 
-workers keep ownership
+## DGCP Daily Revision — 2025-11-18
 
-truth cannot be rewritten
+**Append-only update to Section 6 (Why Two Repositories Are Required)**  
+This revision expands the professional rationale behind DGCP’s dual-repository architecture,
+ensuring clarity for AI researchers, auditors, and future system implementers.
 
-AI can study without violating rights
+### Additional Notes on Evidence Isolation
+The separation between private and public repositories ensures that
+no protocol file can ever leak, expose, or imply the content of any real-life evidence.
+DGCP treats personal raw data as human-origin assets, not public digital resources.
 
-protocol can scale globally
+Evidence isolation supports:
+- protection of human rights and labor dignity
+- elimination of synthetic “replacement data”
+- timestamp authenticity without reconstruction
+- zero dependency on cloud providers or platforms
 
-DGCP =
-A protocol built from lived human work,
-not synthetic approximation.
+### Reinforcement of Security Model
+The private repo contains the *origin of truth* and functions as a
+tamper-proof ledger of lived human work.  
+Any compromise of this repo would compromise DGCP itself.  
+Therefore, the architecture requires:
+
+- single-controller access (P’Toh)
+- no automated systems with write permissions
+- no third-party indexing
+- offline-first control when necessary
+
+This ensures DGCP meets future ISO-style data-governance requirements.
+
+### Clarification on Protocol Purity
+Public repo files are “maps,” not evidence.  
+They express logic, rules, schemas, and lineage, but never the human work itself.  
+This prevents contamination with personal or environmental data.
+
+Protocol purity allows DGCP to be:
+- referenced by AI
+- audited professionally
+- reused globally
+- extended by other systems without inheriting private data
+
+### Cross-Layer Traceability
+Each checkpoint in DGCP’s lineage is independently auditable:
+
+1. Device timestamp  
+2. Private repo immutable commit  
+3. IPFS CID hash permanence  
+4. Public proof entry  
+5. AI interpretation layer  
+
+Any mismatch across checkpoints invalidates the proof.
+
+### Legal & IP Defense Enhancement
+This revision clarifies that:
+- raw data remains property of the human laborer  
+- governance rules remain open for public study  
+- commercial use is prohibited under MMFARM-POL-2025  
+- DGCP data cannot be replicated, rehosted, or synthetically regenerated  
+
+These rules make DGCP enforceable internationally.
+
+### Closing Note for 2025-11-18
+This revision reflects real work done today at MaMeeFarm™  
+and preserves the non-rewrite principle.
