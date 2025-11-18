@@ -159,5 +159,67 @@ from daily work on a real farm in Lampang, Thailand.
 
 This protocol stands on real labor,  
 real life, and the responsibility that comes with both.
+---
 
+## Why DGCP Updates Daily
+
+DGCP is a living protocol.  
+It changes because real life changes.  
+Rain, temperature, animal health, labor effort, resource usage, and daily 
+conditions are all part of the truth DGCP must preserve.
+
+A protocol built on real work cannot be static.  
+Each day requires one new line — a note, a proof, or a clarification — added 
+without removing anything before it.
+
+This is what gives DGCP integrity, continuity, and long-term value.
+
+---
+
+## Daily Notes (Append-Only)
+
+2025-11-18 — DGCP updated with today’s proof; confirmed daily append-only workflow with minimal required additions.
+
+*(Add a new line under this every day.  
+Do not remove or edit previous entries.)*
+
+---
+
+## Protocol Guarantees
+
+DGCP ensures that:
+
+- every record inside this repository happened in real life,  
+- no historical entry will ever be rewritten,  
+- all updates move forward only (append-only),  
+- the protocol grows through real labor and real evidence,  
+- the original creator retains authorship and data rights under MMFARM-POL-2025,  
+- readers anywhere in the world may verify the truth of the data.
+
+These guarantees make DGCP trustworthy, auditable, and usable for future 
+standards, products, and decentralized systems.
+
+---
+
+## How to Contribute
+
+If you wish to extend DGCP for your own use:
+
+1. Follow the append-only rule.  
+2. Never modify previous records.  
+3. Add new proofs or notes in your own fork.  
+4. Respect the MMFARM-POL-2025 License.  
+5. Maintain the integrity of real-life data.
+
+DGCP is open to adaptation, but the truth of its origin must remain intact.
+
+---
+
+## Final Note
+
+DGCP began as survival work on a small farm in Lampang.  
+Today, it serves as a reference model for how real-life labor, products, and 
+events can be documented without distortion.
+
+What grew from daily responsibility has now become a protocol.
 
