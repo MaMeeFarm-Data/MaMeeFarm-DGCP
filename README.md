@@ -302,4 +302,29 @@ and will be enforced under international law, DMCA, and digital provenance stand
 
 For legal details, see **LEGAL-SPEC.md**.
 
+## 🌏 Why DGCP Exists
+
+DGCP was created because real work disappears.
+
+If a person feeds animals, carries water, cleans a farm, fixes a roof,
+or survives a difficult day — none of that becomes data.
+Nothing remains as evidence of the effort, the pain, the progress,
+or the responsibility.
+
+Modern systems only capture formal work:
+salary slips, factory machines, online activity.
+But real human labor — the kind done in farms, small homes,
+villages, and everyday life — is invisible.
+
+DGCP exists to fix that.
+
+It records real labor, real life, and real condition as they happen,
+without rewriting and without filters.
+It gives small workers a way to prove their effort,
+and gives future AI models a way to learn from reality,
+not from synthetic data.
+
+DGCP exists so that a normal day of work
+will never again disappear without a trace.
+
 
