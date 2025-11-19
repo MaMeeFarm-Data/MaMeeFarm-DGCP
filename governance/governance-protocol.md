@@ -143,6 +143,8 @@ DGCP resolves conflicts using this order:
 4. **Local-record context (MaMeeFarm daily logs)**  
 5. **Human testimony from the person who performed the labor**
 
+6. 
+
 Human context is always the final authority.
 
 No automated system may override human truth.
@@ -176,3 +178,45 @@ Future governance topics may include:
 
 These sections will be added using the append-only rule  
 as DGCP expands beyond MaMeeFarm.
+
+## 13. Multi-Layer Truth Assurance (MLTA)
+
+DGCP defines truth not from a single source, but from the alignment  
+of multiple independent layers of verification.  
+This model is called **Multi-Layer Truth Assurance (MLTA).**
+
+A DGCP record is considered true only when these layers agree:
+
+1. **Real-Life Event Layer**  
+   The event must have actually occurred at MaMeeFarm™ through real labor.
+
+2. **Device-Origin Layer**  
+   Original phone timestamps, camera metadata, geolocation (if available),  
+   and raw file signatures confirm the origin.
+
+3. **IPFS Proof Layer**  
+   The immutable CID must match the original file without modification.
+
+4. **GitHub Version Layer**  
+   The commit timestamp, hash, and version snapshot must reference the same event.
+
+5. **NFT / Metadata Layer**  
+   If published as an NFT, metadata must contain the exact CID and description  
+   derived from the real event.
+
+6. **Local Human-Context Layer**  
+   Human testimony from the person who performed the labor  
+   is always the final authority in conflict resolution.
+
+7. **Daily Log Synchronization Layer**  
+   Daily reports (if available) must align with the captured proof.
+
+8. **Social Verification Layer (Optional)**  
+   Cross-reference events with public-facing posts (TikTok, Blogger)  
+   to ensure additional external visibility.
+
+Only when multiple layers confirm the same truth  
+can a DGCP record be considered fully verified.
+
+This MLTA model gives DGCP its global-level integrity,  
+making it resistant to fabrication, synthetic data, or tampering.
