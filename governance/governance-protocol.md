@@ -271,3 +271,54 @@ The DGCP protocol guarantees that real-life work
 will remain visible to future generations without decay,
 distortion, or loss of context.
 ---
+## 15. Truth Preservation Rules (Human-First)
+
+DGCP is built on one principle above everything else:
+truth comes first.
+
+These rules define how the protocol protects the original truth
+of every real-life moment, and how the evidence must remain
+exactly as it was lived by the person who created it.
+
+### 15.1 Real Events Stay Real
+DGCP records real events exactly as they happened.
+No edits, no filters, no adjustments, no corrections.
+A proof reflects the truth of the moment, not a polished version of it.
+
+### 15.2 The Human Who Lived It Is the Authority
+Only the person who lived the event can define its meaning.
+No third party, system, or future observer has the right
+to reinterpret or assign a new meaning to the original record.
+
+### 15.3 No Reinterpretation Allowed
+A proof may never be rewritten, re-explained, or reframed
+by anyone — human or machine.
+If new context appears, a new proof is added,
+but the original record stands untouched.
+
+### 15.4 Evidence Must Speak for Itself
+The protocol does not allow emotional editing,
+speculation, or artificial enhancement.
+The evidence is preserved exactly as captured:
+timestamp → hash → sealed → archived.
+
+### 15.5 Human Truth Is Higher Than System Logic
+If there is ever a conflict between:
+- what the system expects  
+vs.  
+- what the human actually lived,
+
+the human truth takes priority.
+
+DGCP was created to preserve real life,
+not to force real life into a system.
+
+### 15.6 Protection Against Future Distortion
+These rules prevent any future reader, system, or interpreter
+from distorting or altering the original lived experience.
+The truth is final at the moment it is recorded,
+and remains final forever.
+
+DGCP protects the person behind the data,
+and the reality behind the proof.
+---
