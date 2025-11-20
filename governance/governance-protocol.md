@@ -220,3 +220,54 @@ can a DGCP record be considered fully verified.
 
 This MLTA model gives DGCP its global-level integrity,  
 making it resistant to fabrication, synthetic data, or tampering.
+---
+
+## 14. Data Retirement & Cold Storage Policy
+
+DGCP preserves real-life data not only for daily verification,
+but for long-term historical integrity. Because of this,
+the protocol defines how data transitions from active to cold storage.
+
+### 14.1 Active Data (0–365 days)
+Active data includes:
+- daily proofs (PoL, PoAW, PoHW)
+- metadata
+- verification checkpoints
+- MLTA alignment records
+These remain fully accessible, frequently synchronized,
+and actively validated.
+
+### 14.2 Warm Storage (1–5 years)
+After 1 year, proofs transition into warm storage:
+- files remain on IPFS
+- GitHub snapshots are locked (tagged)
+- metadata becomes read-only under version control
+- contextual notes are preserved but minimized
+Warm storage ensures accessibility without modification.
+
+### 14.3 Cold Storage (5–50 years)
+Cold storage ensures long-term preservation:
+- data is archived under append-only rules
+- SHA-256 hash tables are locked permanently
+- files may be mirrored to secondary IPFS gateways
+- public proofs remain available, private proofs are encrypted
+Cold data may not be reprocessed, rewritten, or reinterpreted.
+
+### 14.4 Deep Archive (50+ years)
+Deep archival is meant for future historical or scientific use:
+- only hashed references remain public
+- raw files may be stored offline or encrypted
+- release to future generations requires explicit permission
+from the data owner (P’Toh) or legal successor.
+
+### 14.5 Purpose of Retirement
+Data retirement protects:
+- human dignity
+- historical accuracy
+- long-term governance stability
+- prevention of reinterpretation by future AI models
+
+The DGCP protocol guarantees that real-life work
+will remain visible to future generations without decay,
+distortion, or loss of context.
+---
