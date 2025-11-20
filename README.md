@@ -326,5 +326,62 @@ not from synthetic data.
 
 DGCP exists so that a normal day of work
 will never again disappear without a trace.
+---
+
+## 🌱 DGCP Core Principles
+
+DGCP is guided by simple but unbreakable principles.
+These principles protect the truth of daily work and keep the protocol clean,
+honest, and aligned with real life.
+
+### **1. Real Life Comes First**
+DGCP follows life, not theory.
+If something happens in real life, it must be recorded as it is
+— without polishing, fixing, or rewriting.
+
+### **2. No Rewrite, Ever**
+Once a proof is created, it cannot be edited.
+If new information appears, a new proof is added.
+Truth grows forward, never backward.
+
+### **3. Human Work Matters**
+Every person’s effort — big or small — deserves to be seen.
+DGCP treats real human labor as first-class data,
+the same way other systems treat financial or machine data.
+
+### **4. Evidence Must Be Verifiable**
+A moment is not a DGCP proof unless:
+- it is hashed  
+- it is timestamped  
+- it can be checked by anyone  
+
+Verification is the heart of the protocol.
+
+### **5. Privacy Before Publicity**
+Real life stays private.
+Only safe, selected evidence is published to IPFS or GitHub.
+DGCP protects people before data.
+
+### **6. Context Is Part of the Truth**
+Numbers alone are not enough.
+Human context — pain, struggle, weather, meaning  is part of the proof.
+
+### **7. Protocol Over Emotion**
+Even on difficult days, the protocol must stay consistent.
+We record what happened, not what we wish had happened.
+
+### **8. Designed for One Phone**
+The entire system must work from a single mobile device,
+because real workers do not have servers or big machines.
+
+### **9. AI Must Respect Human Data**
+AI may read DGCP, but must not rewrite, train on, or replicate it.
+Human-origin data must stay human-owned.
+
+### **10. Growth Through Daily Work**
+DGCP does not grow in big jumps.
+It grows the same way real life grows:
+one day at a time, one proof at a time.
+
 
 
