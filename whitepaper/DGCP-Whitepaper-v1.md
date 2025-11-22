@@ -433,3 +433,78 @@ but capable of scaling to every place where real life happens.
 RWVLM is the blueprint for a world
 that rewards truth, labor, and lived human effort.
 
+### Expansion Entry — Provenance Stack Logic (PSL)
+
+DGCP introduces a multi-layer provenance stack that transforms a real
+event into a verifiable digital asset without relying on centralized
+platforms or synthetic reconstruction. Unlike traditional supply-chain
+systems that track only products, DGCP tracks human-origin labor,
+environmental truth, and timestamp lineage.
+
+The Provenance Stack Logic (PSL) defines the exact journey of truth:
+
+#### 1. **Reality Layer**
+An event occurs in the physical world:
+animal behavior, weather shift, egg inspection, field observation, or
+any micro-task performed by a human.
+
+This is the source of truth.
+
+#### 2. **Capture Layer**
+A low-end mobile device records:
+- camera image  
+- raw timestamp  
+- unfiltered environmental metadata  
+
+No computational processing is introduced.
+
+#### 3. **CID Layer (IPFS)**
+The captured file is pinned to IPFS, producing a content-addressable hash.
+This CID guarantees:
+- tamper-resistance  
+- immutability  
+- permanent reference  
+
+The file’s identity can no longer be altered.
+
+#### 4. **Form & Registry Layer**
+Information is manually entered into:
+- Google Form (10-field proof pattern)  
+- Google Sheet registry  
+
+This layer creates human-readable structure and transparent correction
+notes.
+
+#### 5. **Ledger Layer (GitHub)**
+DGCP creates an append-only ledger:
+- proof markdown files  
+- CID metadata  
+- daily logs  
+- commit history  
+- SHA-256 integrity trail  
+
+Every commit becomes a permanent checkpoint in truth.
+
+#### 6. **Asset Layer (Optional)**
+The proof is wrapped into NFT metadata:
+- traits  
+- lineage  
+- farm identity  
+- environmental context  
+- provenance chain  
+
+This optional layer converts work into a transferable digital artifact.
+
+---
+
+### Why PSL Matters
+- It allows anyone to audit the full chain of truth.  
+- It prevents fake data at every step.  
+- It bridges physical reality with digital verifiability.  
+- It operates without needing trust in a company or platform.  
+- It creates a new category of asset: **Real-Work Provenance Data (RWPD).**
+
+PSL makes DGCP not just a data protocol, but a complete architecture of
+verifiable reality.
+
+
