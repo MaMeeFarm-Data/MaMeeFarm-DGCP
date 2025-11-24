@@ -383,5 +383,36 @@ DGCP does not grow in big jumps.
 It grows the same way real life grows:
 one day at a time, one proof at a time.
 
+### 11. Proof Must Outlive Platforms  
+DGCP ensures that real-life evidence will survive beyond the lifespan of any app,  
+website, or social media platform.  
+Platforms can disappear, update policies, or delete accounts —  
+but DGCP proofs stored with EXIF, SHA-256, IPFS CIDs, and GitHub commits  
+remain verifiable forever.  
+A platform can shut down, but **truth cannot be deleted.**
+
+---
+
+### 12. Real Data Must Be Resistant to AI  
+DGCP data must stay distinguishable from AI-generated content.  
+Every DGCP proof carries natural signals that AI cannot reproduce:  
+real timing, real light, real weather, real fatigue, real motion, real randomness.  
+Protocols must protect the boundary between **human-origin data**  
+and **machine-origin data**, so future AI models know where reality begins.
+
+---
+
+### 13. Small Work Creates Big Systems  
+DGCP was born from ordinary daily work — feeding ducks, fixing fences,  
+checking animals, gathering eggs.  
+Small actions, when recorded consistently, form a pattern.  
+Patterns become structure.  
+Structure becomes governance.  
+Governance becomes a protocol.  
+This principle ensures that **anyone with one phone and real work**  
+can participate in a global-proof ecosystem without needing money, equipment,  
+or technical background.
+
+---
 
 
