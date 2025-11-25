@@ -688,5 +688,101 @@ FRF makes DGCP fundamentally different from traditional reporting systems, which
 Here, **reality itself is the data.**
 
 ---
+---
+
+## 9. Time-Indexed Labor Lineage (TILL): The Continuity of Real Human Work
+
+DGCP formalizes a chronological structure called **Time-Indexed Labor Lineage (TILL)**   
+a long-term record of human work preserved exactly as it occurred in real time.
+
+TILL ensures that every action, no matter how small, becomes part of an unbroken timeline of truth.
+
+### 9.1 Definition of TILL
+TILL is the chronological mapping of:
+
+- what task was performed  
+- who performed it  
+- when it occurred  
+- under which environmental conditions  
+- with what immediate result  
+- and in what sequence relative to other tasks  
+
+This produces a lineage of human labor that cannot be rewritten.
+
+### 9.2 Sequential Integrity
+Real work follows real sequences.
+
+TILL enforces that:
+
+- egg collection follows animal activity  
+- feeding precedes water maintenance  
+- crop growth follows seasonal rhythm  
+- repair tasks follow observed problems  
+- morning light differs from evening light  
+- weather patterns influence daily behavior  
+
+These sequences serve as **time-based validation anchors**.
+
+### 9.3 Micro-Task Granularity
+TILL breaks labor into micro-units of truth, such as:
+
+- lifting a water container  
+- checking a duck’s movement  
+- removing fallen leaves  
+- harvesting one ripe papaya  
+- adjusting a water pump  
+- inspecting soil moisture  
+
+Each micro-task becomes a timestamped entry representing real effort.
+
+### 9.4 Daily Rhythm Mapping
+Each farm has a natural rhythm shaped by:
+
+- sunrise routines  
+- midday maintenance  
+- evening checks  
+- seasonal adjustments  
+- weekly supply runs  
+- irregular emergencies  
+
+TILL captures these rhythms, forming a recognizable behavioral pattern over months and years.
+
+### 9.5 Long-Term Pattern Value
+Over time, TILL allows observation of:
+
+- animal productivity patterns  
+- seasonal environmental influence  
+- human labor cycles  
+- frequency of equipment failures  
+- crop maturation timelines  
+- daily-to-monthly changes in resource use  
+
+This transforms ordinary farming into a scientifically valuable time series.
+
+### 9.6 Irreversibility of Recorded Time
+Once a task is recorded into TILL:
+
+- it cannot be rearranged  
+- it cannot be replaced  
+- it cannot be rewritten  
+- it cannot be retrospectively corrected to another date  
+
+Corrections must be transparent and appended — never overwritten.
+
+This makes TILL function like a “real-world ledger of time.”
+
+### 9.7 Why TILL Matters
+TILL provides:
+
+- temporal trust  
+- unbroken lineage of truth  
+- evidence of sustained real labor  
+- protection against reconstruction  
+- long-term continuity of field reality  
+- a standard for authentic time-based reporting  
+
+TILL transforms daily farm life into a **continuous stream of verifiable human work**, forming the backbone of DGCP’s long-term truth system.
+
+---
 
 
