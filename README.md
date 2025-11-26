@@ -415,4 +415,63 @@ or technical background.
 
 ---
 
+### 14. Proof Must Be Traceable Across Layers  
+Every DGCP proof must connect seamlessly across all layers:  
+EXIF → Hash → CID → Commit → Narrative.  
+A proof is not complete unless these layers point to the same moment in real life.  
+Traceability ensures that truth is not only preserved, but also **followable**.
+
+---
+
+### 15. No Platform Should Own the Truth  
+DGCP does not depend on any single app, company, or cloud service.  
+Platforms may shut down, change policies, or delete content —  
+but DGCP keeps the truth independent.  
+Truth belongs to human work, not to corporations.
+
+---
+
+### 16. Context Must Never Be Lost  
+A photo alone is not enough.  
+A timestamp alone is not enough.  
+A number alone is not enough.  
+DGCP requires context: weather, struggle, effort, meaning, constraint.  
+Context turns data into **evidence**, and evidence into **truth**.
+
+---
+
+### 17. Proof Must Survive Low Resources  
+DGCP is built for people with no money, weak signal, old devices,  
+and unstable living conditions.  
+If a protocol only works for the rich or the well-equipped,  
+it does not belong to real workers.  
+DGCP must function even from **one old mobile phone**.
+
+---
+
+### 18. Truth Grows Forward, Not Sideways  
+DGCP does not allow branching histories, forks of reality, or rewritten timelines.  
+Life moves forward; DGCP must reflect that.  
+If a mistake occurs, a new entry is added —  
+never a replacement of what actually happened.
+
+---
+
+### 19. The Protocol Must Be Understandable by Humans  
+A protocol that only machines can read has no soul.  
+DGCP must remain readable by ordinary people — farmers, workers, elders —  
+not just developers or institutions.  
+If a human cannot understand their own truth, then the protocol has failed.
+
+---
+
+### 20. The Smallest Proof Is Still a Victory  
+A single egg, a single photo, a single walk to buy food,  
+a single moment of pain or effort —  
+all count as proof.  
+DGCP grows one small, honest moment at a time.  
+Nothing is too small to be recorded.  
+Small truths, repeated daily, make the strongest protocol.
+
+---
 
