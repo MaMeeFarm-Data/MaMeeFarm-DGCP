@@ -887,3 +887,111 @@ but a **multi-dimensional portrait of real environments over time.**
 
 ---
 
+---
+
+## 11. Physical Evidence Chain (PEC): Tools, Objects, and Material Markers of Real Work
+
+DGCP extends truth verification beyond humans and environments by integrating a **Physical Evidence Chain (PEC)** —  
+a system that uses real tools, objects, materials, and their natural wear patterns to authenticate work performed in the field.
+
+PEC turns the physical world into a secondary layer of proof.
+
+### 11.1 Definition of PEC
+PEC refers to the traceable set of physical elements that appear naturally during real labor:
+
+- tools (baskets, knives, hoes, water containers)  
+- equipment (thermometers, pumps, feeders)  
+- materials (feed bags, buckets, soil, leaves)  
+- surfaces (ground, fences, walls, roofs)  
+- objects in daily use (egg trays, baskets, ropes)  
+
+These elements verify not just *what* happened — but *how* real work was physically executed.
+
+### 11.2 Wear Patterns as Evidence
+Objects used in real fieldwork carry irreplaceable signatures:
+
+- scratches  
+- dirt distribution  
+- hand-pressure marks  
+- faded colors  
+- broken edges  
+- paint wear  
+- moisture residue  
+
+These patterns develop gradually and cannot be replicated artificially in a consistent sequence.
+
+### 11.3 Object Position Consistency
+Real objects tend to appear in:
+
+- naturally recurring positions  
+- habitual working locations  
+- typical distances from light sources  
+- consistent usage orientations  
+- familiar proximity to animals or crops  
+
+For example:
+- the egg basket always appears near the morning route  
+- the water container has a recurring shadow direction  
+- tools rest in predictable positions after work  
+
+This positional consistency supports long-term authenticity.
+
+### 11.4 Material State Indicators
+Each material carries its own state:
+
+- wet soil after watering  
+- dry feed dust on trays  
+- mud splashes after rain  
+- wilted leaves in late afternoon  
+- condensation on instruments in cool weather  
+- rust progression on metal tools  
+
+Material states correlate directly with environmental conditions, reinforcing the chain of truth.
+
+### 11.5 Equipment Condition Timeline
+PEC tracks how tools and equipment evolve naturally:
+
+- aging  
+- minor damage  
+- color fading  
+- joint loosening  
+- handle wear  
+- shape deformation from long use  
+
+These progressive changes provide chronological anchors that support timestamp integrity.
+
+### 11.6 Interaction Between Humans and Objects
+Every act of real farming produces micro-traces:
+
+- fingerprints  
+- angles of gripping  
+- posture-driven placement  
+- pressure on soft materials  
+- micro-shifts in object alignment  
+
+These interaction patterns personalize the evidence and form a Human-Work Signature within the physical domain.
+
+### 11.7 Multi-Day Continuity of Objects
+Objects do not reset daily.  
+PEC captures:
+
+- the same basket aging over months  
+- the same pump showing seasonal wear  
+- the same egg tray accumulating marks  
+- the same fence collecting dust over time  
+- tools remaining in typical storage locations  
+
+This continuity proves that the data originates from a stable, long-term physical environment.
+
+### 11.8 Why PEC Matters
+The Physical Evidence Chain strengthens DGCP by:
+
+- tying every event to real physical objects  
+- using natural wear as chronological markers  
+- ensuring environmental consistency over time  
+- anchoring human labor to material interaction  
+- providing multi-layer validation that resists fabrication  
+
+With PEC, DGCP elevates field-based truth to a verifiable, material-backed evidence standard.
+
+---
