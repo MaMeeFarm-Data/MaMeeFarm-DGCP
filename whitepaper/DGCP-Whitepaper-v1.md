@@ -995,3 +995,111 @@ The Physical Evidence Chain strengthens DGCP by:
 With PEC, DGCP elevates field-based truth to a verifiable, material-backed evidence standard.
 
 ---
+---
+
+## 12. Biological Rhythm Correlation (BRC): Natural Life Patterns as High-Fidelity Evidence
+
+DGCP incorporates **Biological Rhythm Correlation (BRC)** to validate truth through the predictable,  
+natural, and scientifically observable patterns of living organisms in the field.
+
+BRC recognizes that plants and animals express consistent biological rhythms that cannot be staged,  
+faked, or reconstructed without deep time-based continuity.
+
+These rhythms become a living layer of proof.
+
+### 12.1 Definition of BRC
+BRC is the alignment of recorded events with biological processes such as:
+
+- growth cycles of crops  
+- productivity cycles of animals  
+- feeding-response behaviors  
+- seasonal physiological changes  
+- daily movement patterns  
+- long-term developmental milestones  
+
+These biological indicators validate that work was performed in a real ecosystem over real time.
+
+### 12.2 Animal Behavior Consistency
+Animals follow highly reliable behavior cycles:
+
+- morning roaming patterns  
+- midday resting points  
+- seasonal egg production rhythms  
+- stress responses to weather changes  
+- flock movement signatures  
+- recovery patterns after illness or trauma  
+
+These behaviors cannot be arbitrarily created — they emerge only through real daily life.
+
+### 12.3 Crop Growth Timelines
+Plants provide one of the strongest long-term evidence anchors:
+
+- the pace of leaf expansion  
+- fruit formation stages  
+- daily sunlight-driven posture changes  
+- micro-differences in hydration levels  
+- flowering and fruiting cycles  
+- seasonal color shifts  
+
+Daily captures of crops form a biologically correct timeline that is extremely difficult to fabricate.
+
+### 12.4 Seasonal Biological Alignment
+Seasonal conditions create natural markers:
+
+- colder temperatures reduce egg output  
+- warm-season growth accelerates leaf expansion  
+- humidity influences animal movement  
+- daylight duration affects feeding behavior  
+- rainfall shifts soil moisture and plant turgor  
+- dry season alters animal water consumption  
+
+These seasonal signatures must correlate with local environmental data — otherwise the moment fails verification.
+
+### 12.5 Stress and Recovery Indicators
+Biological recovery patterns act as deep-proof signals:
+
+- weakened animals regain strength gradually  
+- injured plants show slow regrowth  
+- flock dynamic changes after loss or stress  
+- productivity dips after sudden temperature drops  
+- behavioral shifts due to predator presence  
+
+These patterns require real, elapsed time — they cannot be “invented” in retrospect.
+
+### 12.6 Micro-Biological Variations
+Small biological changes also hold meaning:
+
+- feather condition  
+- beak or claw wear  
+- leaf tear progression  
+- soil-root interaction changes  
+- micro-color changes in stems  
+- hydration levels of crops  
+
+These micro-patterns correlate across days, forming natural proof chains.
+
+### 12.7 Long-Horizon Biological Continuity
+BRC validates multi-month truth by tracing:
+
+- egg productivity cycles  
+- long-term crop yield patterns  
+- breeding or molting stages  
+- plant maturation  
+- seasonal fatigue cycles  
+- natural senescence  
+
+Biology cannot be accelerated or rewound — this makes it one of the strongest forms of real-world verification.
+
+### 12.8 Why BRC Matters
+Biological Rhythm Correlation ensures:
+
+- truth aligns with natural life cycles  
+- data reflects real ecosystems over real time  
+- long-term continuity is scientifically provable  
+- staged or fabricated content collapses under biological scrutiny  
+- work is tied to authentic environmental–biological interaction  
+
+BRC turns the living ecosystem itself into a dynamic verification engine —  
+a layer of truth that no synthetic source can convincingly replicate.
+
+---
