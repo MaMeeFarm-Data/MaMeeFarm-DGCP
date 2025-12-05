@@ -614,3 +614,88 @@ Multi-farm topology ensures:
 DGCP V2 is the world’s first agricultural protocol capable of verifying truth at scale.
 
 ---
+---
+
+## 5. DGCP Governance Model  
+### Tiered Validators for a Global Truth Infrastructure
+
+DGCP V2 introduces a **three-tier governance system**  
+to maintain the integrity, neutrality, and scalability of the global truth network.
+
+Governance ensures that no single authority can alter data,  
+control truth flow, or manipulate verification outcomes.
+
+---
+
+## 5.1 Tier 1 — Reality Validators (RV)
+
+Reality Validators operate at the farm level and are responsible for:
+
+- generating real-work data  
+- capturing physical events  
+- maintaining local TILL  
+- observing environmental and biological patterns  
+- performing CTA timestamping  
+- documenting error transparency  
+
+Tier 1 is the “origin of truth.”
+
+---
+
+## 5.2 Tier 2 — Provenance Validators (PV)
+
+Provenance Validators verify:
+
+- multi-layer coherence  
+- environmental–temporal alignment  
+- biological truth signatures  
+- cross-node consistency  
+- CID and ledger immutability  
+- anomaly detection  
+
+Tier 2 ensures that data entering the DGCP network is **authentic and naturally consistent**.
+
+---
+
+## 5.3 Tier 3 — Observability Nodes (ON)
+
+Observability Nodes operate at regional & global scale:
+
+- monitor cross-region biological patterns  
+- model climate-based truth envelopes  
+- check temporal drift across thousands of nodes  
+- detect outliers & abnormal patterns  
+- maintain global DGCP state  
+- help institutions query large-scale real-world truth  
+
+Tier 3 is the “network-wide guardian of reality.”
+
+---
+
+## 5.4 Neutrality by Design
+
+DGCP Governance ensures:
+
+- no single institution can manipulate truth  
+- no farm loses ownership of its data  
+- real-world verification remains trustless  
+- validation is based on natural signals and mathematics  
+
+Governance = **Truth without central power.**
+
+---
+
+## 5.5 Why Governance Matters
+
+Without governance:
+
+- truth collapses into interpretation  
+- synthetic data infiltrates systems  
+- institutions cannot rely on provenance  
+- cross-region data becomes meaningless  
+
+With governance:
+
+- DGCP remains the strongest real-world truth engine in the world.
+
+---
