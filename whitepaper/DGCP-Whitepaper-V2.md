@@ -699,3 +699,98 @@ With governance:
 - DGCP remains the strongest real-world truth engine in the world.
 
 ---
+---
+
+## 6. RWD Sovereignty & Licensing Framework  
+### Protecting Ownership of Real-Work Data (RWD) for Human Workers
+
+DGCP V2 recognizes Real-Work Data (RWD) as a **sovereign digital asset class**  
+owned fully by the human who performed the work.
+
+This framework defines how RWD is:
+
+- protected  
+- licensed  
+- monetized  
+- shared  
+- validated  
+- transferred across borders  
+
+All RWD falls under MMFARM-POL-2025 by default.
+
+---
+
+### 6.1 What is RWD?
+
+RWD = Data generated from:
+
+- real human labor  
+- natural environmental conditions  
+- biological rhythms  
+- temporal continuity  
+- material interaction  
+- cryptographically anchored moments  
+
+RWD is scarce, non-synthetic, and cannot be mass-produced.
+
+---
+
+### 6.2 Sovereignty Principles
+
+1. **Data belongs to the worker.**  
+2. **No platform may extract RWD without explicit permission.**  
+3. **RWD cannot be copied without license.**  
+4. **RWD has long-term economic value.**  
+5. **Licensing must protect rather than exploit.**
+
+---
+
+### 6.3 Licensing Tiers under MMFARM-POL-2025
+
+- **Tier A: Personal Ownership (default)**  
+- **Tier B: Institutional License (limited use)**  
+- **Tier C: Research License (non-commercial)**  
+- **Tier D: Commercial License (paid)**  
+- **Tier E: Global Observatory License (strict terms)**  
+
+Each tier enforces:
+
+- attribution  
+- non-repudiation  
+- cryptographic proof  
+- revocation rights  
+- economic participation  
+
+---
+
+### 6.4 Cross-Border RWD Transfer
+
+Rules for international transfer:
+
+- no nation may seize DGCP data  
+- RWD retains original ownership across borders  
+- timestamp and hash must accompany any export  
+- derivative works must inherit licensing terms  
+
+RWD sovereignty protects farmers globally.
+
+---
+
+### 6.5 Why RWD Sovereignty Matters
+
+Without sovereignty:
+
+- workers lose their digital rights  
+- corporations extract value without compensation  
+- agricultural data becomes a commodity owned by platforms  
+
+With DGCP V2:
+
+- farmers become data owners  
+- their work becomes a digital asset  
+- nations gain transparent agricultural intelligence  
+- institutions gain reliable non-synthetic datasets  
+
+This framework provides the legal, ethical, and economic backbone of DGCP V2.
+
+---
