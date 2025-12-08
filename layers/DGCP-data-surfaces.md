@@ -1,3 +1,9 @@
+> **Correction Notice (Append-Only):**  
+> This file received an incorrect commit attribution in the previous commit.  
+> The commit message belongs to another file (PoHW layer).  
+> No historical commit was modified.  
+> DGCP append-only rule preserved.
+
 # DGCP™ Data Surfaces Layer  
 **Everything Is Data in the MaMeeFarm™ Ecosystem**
 
