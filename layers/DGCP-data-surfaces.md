@@ -246,3 +246,80 @@ Any new surface must:
 By treating IPFS, Pinata, OpenSea, GitHub, Blogger, and TikTok as one  
 continuous data surface, MaMeeFarm™ turns everyday farm life into a  
 global, verifiable, and ethically-governed real-life data protocol.
+
+# DGCP Data Surface Layer (DSL)
+Version: 1.0.0  
+MMFARM-POL-2025
+
+---
+
+The Data Surface Layer defines all external surfaces where DGCP proofs become
+public, immutable, and globally auditable.
+
+---
+
+## 1. Primary Surfaces
+### 1.1 IPFS (Content-Addressed Storage)
+- CID v1 required  
+- Immutable  
+- Append-only  
+- Multi-node pinning allowed  
+
+**Purpose:**  
+Stores the Real-Work media (photo/video). Any modification changes the CID.
+
+---
+
+### 1.2 GitHub Commit Surface (Metadata Registry)
+- Stores DMS metadata  
+- SHA-256 commit hash is the canonical registry index  
+- Public, append-only history  
+
+**Purpose:**  
+Provides verifiable ledger for metadata and proof linking.
+
+---
+
+## 2. Optional Redundant Surfaces
+### 2.1 Pinata / Web3.Storage / Other Gateways
+Used for redundancy and availability.
+
+**Rules**
+- Must pin identical CID  
+- Must preserve immutability  
+- Cannot rewrite objects  
+
+---
+
+## 3. Minimal DLT Timestamp Surface
+Only requirement:
+- Anchor GitHub SHA256 root hash  
+- Use minimal-fee global timestamp (OTS, Bitcoin, etc.)
+
+**Purpose**
+- Provides a tamper-proof global timestamp  
+- Confirms the entire proof chain existed before a specific moment  
+
+---
+
+## 4. DSL Invariants
+All Data Surfaces MUST obey:
+
+1. Immutable  
+2. Append-Only  
+3. Hash-Addressed  
+4. Publicly Auditable  
+5. Redundant Across Surfaces  
+6. Minimal Dependence (No heavy blockchain)
+
+---
+
+## 5. Output Contract
+```
+CID (media)  
+→ GitHub SHA (metadata)  
+→ DLT Timestamp (global anchor)
+```
+
+This becomes the DGCP public truth surface.
+
