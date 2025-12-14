@@ -1508,3 +1508,207 @@ It **reveals** it.
 DGCP V2 defines how truth survives in a synthetic world.
 
 ---
+---
+
+## Appendix A — DGCP Glossary  
+### Canonical Terms and Definitions
+
+This glossary defines the canonical terminology used throughout DGCP Whitepaper V1 and V2.
+All terms are normative unless stated otherwise.
+
+---
+
+### DGCP (Duck Governance & Continuous Proof)
+A global protocol for verifying real-world truth using human labor, environmental signals,
+biological rhythms, material evidence, and cryptographic time anchoring.
+
+---
+
+### Reality Stack
+The layered architecture defined in DGCP V1 that validates truth across physical, temporal,
+environmental, biological, material, and human domains.
+
+---
+
+### RWD (Real-Work Data)
+Data generated directly from real human labor and natural conditions.
+RWD is non-synthetic, scarce, irreproducible, and owned by the worker by default.
+
+---
+
+### TILL (Time-Indexed Labor Lineage)
+A chronological record of real human work preserved in irreversible sequence.
+
+---
+
+### CTA (Cryptographic Time Anchoring)
+The process of anchoring proof hashes to decentralized blockchain time
+(via OpenTimestamps / Bitcoin calendar time).
+
+---
+
+### HIFTA (Human Integrity & Field-Truth Assurance)
+A layer ensuring that all data originates from real human activity under real conditions.
+
+---
+
+### FRF (Field Reality Fidelity)
+A requirement that raw captures remain unaltered, preserving natural imperfections as proof.
+
+---
+
+### MPEA (Multi-Point Environmental Anchoring)
+Verification through multiple independent environmental indicators.
+
+---
+
+### PEC (Physical Evidence Chain)
+Validation using tools, objects, materials, and wear patterns across time.
+
+---
+
+### BRC (Biological Rhythm Correlation)
+Verification using predictable animal, crop, and ecosystem biological cycles.
+
+---
+
+### FETP (Field Error Transparency Protocol)
+A protocol that treats honest mistakes and corrections as proof of real work.
+
+---
+
+### TEIM (Temporal–Environmental Interaction Matrix)
+A matrix validating the interaction between time and environment.
+
+---
+
+### CLIS (Cross-Layer Integrity Synthesis)
+The unification logic that binds all DGCP layers into a single integrity system.
+
+---
+
+### Validator (Tier 1–3)
+Entities participating in DGCP governance:
+- Tier 1: Reality Validators
+- Tier 2: Provenance Validators
+- Tier 3: Observability Nodes
+
+---
+
+### MMFARM-POL-2025
+The licensing and governance policy defining ownership, usage, and economic rights of RWD.
+
+---
+
+### Observability Node
+A network component that monitors cross-region, cross-time coherence
+without modifying underlying data.
+
+---
+
+### Anti-Fake Enforcement
+The DGCP framework that detects and rejects synthetic, manipulated, or staged data.
+
+---
+---
+
+## Appendix B — DGCP Dependency & Integrity Graph  
+### Non-Redundant, Non-Circular Architecture
+
+This appendix documents how DGCP components depend on one another
+without duplication, circular logic, or conceptual overlap.
+
+---
+
+### B.1 Dependency Hierarchy
+
+Reality Event
+↓
+Capture Layer
+↓
+CID Layer
+↓
+Registry Layer
+↓
+Ledger Layer
+↓
+HIFTA
+↓
+FRF
+↓
+TILL
+↓
+MPEA
+↓
+PEC
+↓
+BRC
+↓
+FETP
+↓
+TEIM
+↓
+CLIS
+↓
+Global Architecture (V2)
+↓
+CTA
+↓
+Governance & Interoperability
+↓
+Economic & Adoption Layers
+
+
+Each layer depends only on layers **below it**, never above it.
+
+---
+
+### B.2 Non-Redundancy Proof
+
+- No layer validates the same signal as another layer.
+- Environmental validation ≠ biological validation.
+- Time validation ≠ cryptographic anchoring.
+- Error transparency ≠ capture imperfection.
+- Governance ≠ verification logic.
+
+Each layer contributes a **unique signal**.
+
+---
+
+### B.3 Failure Isolation
+
+If a layer fails:
+
+- Lower layers remain intact.
+- Higher layers detect inconsistency.
+- Truth is not overwritten.
+- Errors are appended, never erased.
+
+This ensures resilience and auditability.
+
+---
+
+### B.4 Integrity Guarantees
+
+DGCP guarantees that:
+
+- removing any layer weakens verification
+- duplicating any layer adds no value
+- circular dependencies do not exist
+- system behavior remains deterministic
+- truth evaluation is reproducible
+
+DGCP behaves as a **directed acyclic graph (DAG) of truth**.
+
+---
+
+### B.5 Why This Matters
+
+This dependency structure proves that DGCP is:
+
+- architecturally sound
+- safe for institutional adoption
+- extensible without breaking prior proofs
+- suitable as a long-term global standard
+
+---
