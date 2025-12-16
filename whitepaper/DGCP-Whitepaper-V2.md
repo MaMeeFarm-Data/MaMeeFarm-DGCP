@@ -1712,3 +1712,240 @@ This dependency structure proves that DGCP is:
 - suitable as a long-term global standard
 
 ---
+---
+
+## Appendix C — DGCP Threat & Failure Model  
+### Anticipating, Detecting, and Surviving Failure at Global Scale
+
+DGCP is designed under the assumption that failure, attack, and misuse
+are inevitable at scale. This appendix defines how DGCP anticipates,
+detects, isolates, and survives threats without compromising truth integrity.
+
+---
+
+### C.1 Threat Categories
+
+DGCP classifies threats into five primary categories:
+
+1. **Data Fabrication Threats**  
+   Synthetic images, staged events, backdated records.
+
+2. **Temporal Manipulation Threats**  
+   Altered timestamps, delayed uploads, reconstructed timelines.
+
+3. **Environmental Spoofing Threats**  
+   Artificial lighting, controlled environments, simulated weather.
+
+4. **Governance Capture Threats**  
+   Central authority takeover, validator collusion, policy override.
+
+5. **Economic Exploitation Threats**  
+   Data extraction without compensation, license abuse, platform capture.
+
+---
+
+### C.2 Failure Scenarios
+
+Possible failures include:
+- device malfunction
+- incomplete captures
+- human error
+- missing daily records
+- network downtime
+- validator unavailability
+
+DGCP treats failures as **events**, not exceptions.
+
+---
+
+### C.3 Detection Mechanisms
+
+DGCP detects anomalies through:
+- cross-layer inconsistency (CLIS)
+- biological rhythm deviation (BRC)
+- environmental mismatch (MPEA, TEIM)
+- temporal drift (TILL + CTA)
+- object continuity failure (PEC)
+
+No single signal determines failure; patterns do.
+
+---
+
+### C.4 Isolation & Containment
+
+When anomalies are detected:
+- the proof is flagged, not deleted
+- surrounding proofs remain valid
+- corrections are appended transparently
+- the ledger remains append-only
+
+Truth is preserved even during failure.
+
+---
+
+### C.5 Resilience Guarantee
+
+DGCP guarantees that:
+- no single failure corrupts the system
+- attacks do not propagate silently
+- truth degradation is visible and auditable
+- recovery never overwrites history
+
+DGCP survives failure by **design**, not reaction.
+
+---
+---
+
+## Appendix D — Compliance & Standards Mapping  
+### ISO, ESG, W3C, AI Governance Alignment
+
+DGCP is designed to interoperate with global standards
+while remaining independent of any single regulatory body.
+
+This appendix maps DGCP concepts to existing frameworks
+to ease institutional and governmental adoption.
+
+---
+
+### D.1 ISO Alignment
+
+DGCP supports:
+- ISO 9001 (Process Integrity)
+- ISO 14001 (Environmental Management)
+- ISO 27001 (Information Security)
+- ISO 22301 (Operational Resilience)
+
+DGCP exceeds ISO by providing **ground-truth evidence**, not reports.
+
+---
+
+### D.2 ESG Alignment
+
+DGCP provides verifiable inputs for:
+- Environmental impact (E)
+- Social labor evidence (S)
+- Governance transparency (G)
+
+DGCP replaces self-reporting with proof-based ESG.
+
+---
+
+### D.3 W3C & Web Standards
+
+DGCP aligns with:
+- W3C PROV-DM (Provenance)
+- Verifiable Credentials
+- Decentralized Identifiers (DID)
+
+DGCP adds real-world grounding absent from web-native standards.
+
+---
+
+### D.4 AI Governance Alignment
+
+DGCP supports emerging AI regulations by providing:
+- non-synthetic training datasets
+- traceable data lineage
+- auditable real-world grounding
+- provenance for model evaluation
+
+DGCP functions as an **AI safety substrate**.
+
+---
+
+### D.5 Why Mapping Matters
+
+This mapping allows:
+- faster regulatory approval
+- institutional trust
+- legal defensibility
+- global interoperability
+
+DGCP integrates without surrendering sovereignty.
+
+---
+---
+
+## Appendix E — DGCP Verification Lifecycle  
+### End-to-End Truth Creation, Validation, and Preservation
+
+This appendix documents the full lifecycle of a DGCP proof,
+from the moment real work occurs to long-term global verification.
+
+---
+
+### E.1 Event Generation
+
+A real-world action occurs:
+- human labor
+- environmental interaction
+- biological response
+- material engagement
+
+This is the origin of truth.
+
+---
+
+### E.2 Capture & Preservation
+
+- raw capture (photo, video, sensor)
+- metadata retention
+- FRF compliance
+- CID generation
+
+No alteration is allowed.
+
+---
+
+### E.3 Registry & Ledger Entry
+
+- human-written notes
+- error transparency (FETP)
+- append-only ledger record
+- TILL placement
+
+Truth enters history.
+
+---
+
+### E.4 Cryptographic Anchoring
+
+- SHA-256 hashing
+- OpenTimestamps submission
+- blockchain time anchoring (CTA)
+
+Time becomes immutable.
+
+---
+
+### E.5 Cross-Layer Validation
+
+- environmental checks (MPEA, TEIM)
+- biological correlation (BRC)
+- physical continuity (PEC)
+- cross-node comparison
+
+Truth is reinforced.
+
+---
+
+### E.6 Long-Term Observability
+
+- multi-day pattern formation
+- seasonal validation
+- anomaly detection
+- institutional querying
+
+Truth remains alive over time.
+
+---
+
+### E.7 Lifecycle Guarantee
+
+DGCP guarantees that:
+- truth is never overwritten
+- corrections remain visible
+- provenance is permanent
+- verification is repeatable decades later
+
+---
