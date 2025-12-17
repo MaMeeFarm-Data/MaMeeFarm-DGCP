@@ -1949,3 +1949,147 @@ DGCP guarantees that:
 - verification is repeatable decades later
 
 ---
+---
+
+## Appendix F — Legal & Licensing Architecture  
+### Operationalizing MMFARM-POL-2025 Across Global Use
+
+DGCP is not only a technical or scientific protocol.  
+It is a **legal-grade truth system** designed to produce data that can be owned,
+licensed, enforced, and defended across jurisdictions.
+
+This appendix explains how MMFARM-POL-2025 operates in practice,
+transforming DGCP proofs into legally meaningful digital assets.
+
+---
+
+### F.1 Why a Legal Architecture Is Required
+
+Without a legal layer:
+- real-world data is extracted without consent
+- workers lose ownership of their labor-derived data
+- institutions cannot safely adopt the system
+- courts cannot rely on provenance
+- licensing terms remain ambiguous
+
+DGCP solves this by embedding licensing and ownership
+directly into the data lifecycle.
+
+---
+
+### F.2 MMFARM-POL-2025: Core Legal Principles
+
+MMFARM-POL-2025 is built on five non-negotiable principles:
+
+1. **Origin Ownership**  
+   The human who performs the work owns the resulting RWD by default.
+
+2. **Non-Repudiation**  
+   Cryptographic time anchoring (CTA) prevents denial or alteration of origin.
+
+3. **Inherited Licensing**  
+   Any derivative or downstream use must preserve the original license.
+
+4. **Jurisdictional Neutrality**  
+   Ownership persists across borders and platforms.
+
+5. **Evidence-First Enforcement**  
+   Rights are enforced through proof, not declarations.
+
+---
+
+### F.3 Licensing States of DGCP Data
+
+Every DGCP proof exists in one of the following states:
+
+- **Private (Unlicensed)**  
+  Data remains fully controlled by the originator.
+
+- **Research-Licensed**  
+  Non-commercial use with attribution and integrity requirements.
+
+- **Institution-Licensed**  
+  Limited scope access for governments or organizations.
+
+- **Commercial-Licensed**  
+  Paid usage with enforceable terms and auditability.
+
+- **Observatory-Licensed**  
+  Aggregated access under strict non-extractive rules.
+
+Each state is machine-readable and human-verifiable.
+
+---
+
+### F.4 Legal Strength of DGCP Proofs
+
+A DGCP proof includes:
+- immutable timestamp (CTA)
+- unaltered raw evidence (FRF)
+- environmental and biological validation
+- append-only correction history
+- verifiable chain of custody
+
+Together, these elements satisfy requirements for:
+- evidentiary reliability
+- auditability
+- chain-of-custody integrity
+- long-term preservation
+
+DGCP proofs are **court-admissible by construction**.
+
+---
+
+### F.5 Contractual Integration
+
+DGCP data can be embedded into:
+- licensing agreements
+- supply-chain contracts
+- ESG disclosures
+- research MOUs
+- data-sharing treaties
+
+Because each proof is immutable,
+contracts reference **hashes and timestamps**, not mutable files.
+
+---
+
+### F.6 Enforcement Without Central Authority
+
+DGCP does not rely on a single enforcement body.
+
+Enforcement occurs through:
+- cryptographic verification
+- public timestamp validation
+- independent third-party reproduction
+- institutional audit replay
+- license inheritance checks
+
+Violations become provable facts, not legal opinions.
+
+---
+
+### F.7 Why This Architecture Matters
+
+This legal structure ensures that:
+
+- farmers are not exploited
+- institutions can adopt DGCP safely
+- data markets become fair
+- AI companies cannot extract truth for free
+- governments gain defensible datasets
+- history cannot be rewritten
+
+DGCP transforms truth into a **rights-bearing entity**.
+
+---
+
+### F.8 Final Note
+
+MMFARM-POL-2025 is not an afterthought.
+It is the legal spine of DGCP.
+
+Without it, DGCP would be data.
+With it, DGCP becomes **enforceable reality**.
+
+---
