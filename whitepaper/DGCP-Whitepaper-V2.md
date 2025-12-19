@@ -2093,3 +2093,176 @@ Without it, DGCP would be data.
 With it, DGCP becomes **enforceable reality**.
 
 ---
+---
+
+## Appendix G — Executive & Policy Brief  
+### DGCP in One Document for Leaders and Policy Makers
+
+This appendix summarizes DGCP for executives, ministers, regulators,
+institutional leaders, and investors who require clarity, not technical depth.
+
+---
+
+### G.1 The Problem DGCP Solves
+
+The modern world faces a structural crisis:
+
+- fake data is cheaper than real data
+- self-reporting replaces evidence
+- AI is trained on synthetic information
+- ESG and climate data lack ground truth
+- farmers and workers lose ownership of their data
+
+DGCP addresses this by creating **verifiable real-world truth**.
+
+---
+
+### G.2 What DGCP Is (In One Sentence)
+
+DGCP is a global infrastructure that converts real human work
+and natural conditions into **cryptographically verified, legally enforceable truth**.
+
+---
+
+### G.3 Why DGCP Is Different
+
+DGCP does not rely on:
+- declarations
+- centralized servers
+- institutional trust
+- platform authority
+
+DGCP relies on:
+- nature
+- time
+- biology
+- physical evidence
+- cryptography
+
+---
+
+### G.4 Strategic Value for Governments
+
+Countries adopting DGCP gain:
+
+- sovereign agricultural intelligence
+- anti-fake data defense
+- climate and disaster ground truth
+- AI dataset sovereignty
+- exportable Real-Work Data (RWD)
+- transparent ESG verification
+
+DGCP becomes a new category of **national infrastructure**.
+
+---
+
+### G.5 Strategic Value for Institutions & Investors
+
+Institutions gain:
+- auditable datasets
+- legal defensibility
+- long-term data reliability
+- reduced compliance risk
+
+Investors gain:
+- exposure to RWD as a new asset class
+- protection from synthetic data collapse
+- long-term value anchored in reality
+
+---
+
+### G.6 Why DGCP Matters Now
+
+Because the world is entering a phase where:
+- synthetic data dominates
+- trust collapses
+- reality becomes contested
+
+DGCP ensures that **truth survives scale**.
+
+---
+---
+
+## Appendix H — AI Training Data Access & Contract Template  
+### DGCP-Verified Real-Work Data (RWD) for AI Systems
+
+This appendix defines how AI developers, labs, and institutions
+may access DGCP-verified RWD for training, evaluation, and grounding.
+
+---
+
+### H.1 Why AI Requires DGCP Data
+
+Modern AI systems face a critical risk:
+training on synthetic or unverifiable data leads to model drift,
+hallucination, and unsafe behavior.
+
+DGCP provides:
+- non-synthetic datasets
+- real environmental grounding
+- human-labor provenance
+- cryptographic time anchoring
+- legal usage clarity
+
+---
+
+### H.2 Permitted AI Use Cases
+
+DGCP-RWD may be licensed for:
+- training foundation models
+- grounding robotics systems
+- evaluating model alignment
+- climate and agriculture modeling
+- safety and robustness testing
+
+All use requires explicit license terms.
+
+---
+
+### H.3 Prohibited Uses
+
+Without explicit written license, DGCP-RWD **may not** be used for:
+- unrestricted data scraping
+- resale without attribution
+- model training that erases provenance
+- surveillance or biometric profiling
+- military autonomous targeting
+
+---
+
+### H.4 Standard AI Data License Template (Excerpt)
+
+This agreement grants the Licensee limited, non-exclusive access  
+to **DGCP-verified Real-Work Data (RWD)** under **MMFARM-POL-2025**.
+
+1. **Ownership** remains with the original human data producer.  
+2. All **derivative works** must preserve provenance reference.  
+3. **Cryptographic timestamps and hashes** must be retained.  
+4. **Redistribution** requires explicit written permission.  
+5. **Violation** constitutes provable breach via DGCP evidence.
+
+---
+
+### H.5 Enforcement & Auditability
+
+DGCP enables:
+- proof-based contract enforcement
+- independent audit replay
+- non-repudiation of data origin
+- long-term verification of AI training sources
+
+Contracts reference **hashes, not files**.
+
+---
+
+### H.6 Why This Matters for AI Safety
+
+DGCP creates:
+- a trusted substrate for AI
+- a firewall against synthetic contamination
+- accountability for training data origin
+
+DGCP aligns AI with **reality, not simulation**.
+
+---
+   
