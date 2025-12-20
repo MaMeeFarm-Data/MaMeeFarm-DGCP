@@ -2265,4 +2265,114 @@ DGCP creates:
 DGCP aligns AI with **reality, not simulation**.
 
 ---
-   
+ ---
+
+## Appendix I — DGCP International Adoption & Treaty Readiness  
+### A Neutral Truth Layer for Cross-Border Cooperation
+
+DGCP V2 is designed to be internationally deployable without violating
+national sovereignty, data localization laws, or jurisdictional authority.
+
+This appendix explains how DGCP can function as a **neutral truth layer**
+for bilateral and multilateral cooperation between countries, institutions,
+and international organizations.
+
+---
+
+### I.1 The Core Problem in International Cooperation
+
+Cross-border cooperation often fails due to:
+- lack of shared trusted data
+- conflicting reporting standards
+- unverifiable self-declarations
+- disputes over data ownership
+- political influence over datasets
+
+DGCP addresses this by separating **data ownership** from **verification rights**.
+
+---
+
+### I.2 Principle: “Do Not Move Data — Move Verification Rights”
+
+DGCP does not require countries to:
+- export raw data
+- centralize databases
+- surrender sovereignty
+
+Instead, DGCP enables:
+- local data custody
+- shared cryptographic proofs
+- independent verification using hashes, timestamps, and reality signals
+
+Each party verifies truth **without accessing the other party’s raw data**.
+
+---
+
+### I.3 Treaty-Compatible Architecture
+
+DGCP proofs can be referenced in treaties and MoUs using:
+- content hashes (CID / SHA-256)
+- cryptographic timestamps (CTA)
+- provenance references (DGCP Proof ID)
+
+Treaties reference **proof identifiers**, not files.
+
+This makes DGCP compatible with:
+- international law
+- data protection regulations
+- national security constraints
+
+---
+
+### I.4 Areas of International Application
+
+DGCP is immediately applicable to:
+- cross-border agriculture programs
+- climate and environmental agreements
+- ESG and supply-chain verification
+- disaster response coordination
+- AI safety and dataset provenance
+- development aid accountability
+
+DGCP provides a shared reality baseline without political interpretation.
+
+---
+
+### I.5 Dispute Resolution & Auditability
+
+In case of disputes:
+- any party can independently verify proofs
+- timestamps establish sequence of events
+- environmental and biological layers provide non-political validation
+- ledger history prevents retroactive modification
+
+DGCP transforms disputes from arguments into **verifiable checks**.
+
+---
+
+### I.6 Why DGCP Is Treaty-Ready
+
+DGCP is suitable for international adoption because it is:
+- neutral by design
+- non-extractive
+- sovereignty-preserving
+- cryptographically verifiable
+- scientifically grounded
+- legally referenceable
+
+DGCP functions as **infrastructure**, not authority.
+
+---
+
+### I.7 Strategic Implication
+
+DGCP enables a new model of cooperation:
+- shared truth without shared control
+- verification without trust
+- collaboration without data transfer
+
+This positions DGCP as a candidate
+for future international data and truth standards.
+
+---
+  
