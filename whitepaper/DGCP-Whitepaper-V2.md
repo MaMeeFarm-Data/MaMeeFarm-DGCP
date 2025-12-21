@@ -2375,4 +2375,108 @@ This positions DGCP as a candidate
 for future international data and truth standards.
 
 ---
-  
+ ---
+
+## Appendix J — DGCP Investor & Partner Logic Brief  
+### Why DGCP Is Investable Without Speculation
+
+This appendix explains DGCP for investors, strategic partners, and institutions
+who evaluate projects based on fundamentals, defensibility, and long-term value.
+
+DGCP is not a speculative product.
+It is **infrastructure backed by real-world work and verifiable truth**.
+
+---
+
+### J.1 The Market Failure DGCP Solves
+
+Global markets suffer from:
+- cheap synthetic data
+- unverifiable ESG claims
+- fragile AI training datasets
+- extractive data platforms
+- lack of ground truth at scale
+
+DGCP replaces fragile claims with **provable reality**.
+
+---
+
+### J.2 What Is the Asset?
+
+DGCP’s core asset is **Real-Work Data (RWD)**:
+- produced by real human labor
+- grounded in environment and biology
+- cryptographically time-anchored
+- legally licensable
+- non-replicable
+
+RWD is scarce by nature.
+
+---
+
+### J.3 Why This Is Not Platform Risk
+
+DGCP avoids platform dependency by design:
+- no centralized database
+- no exclusive data custody
+- no lock-in infrastructure
+- open verification
+- distributed ownership
+
+Value does not collapse if any single entity fails.
+
+---
+
+### J.4 Revenue Logic (Non-Speculative)
+
+DGCP generates value through:
+- institutional data licensing
+- government adoption contracts
+- ESG verification services
+- AI dataset access (licensed)
+- long-term observability subscriptions
+
+Revenue is tied to **usage of truth**, not token price.
+
+---
+
+### J.5 Defensibility
+
+DGCP is defensible because:
+- reality cannot be forked
+- long-term data compounds
+- provenance accumulates over time
+- cryptographic timestamps are irreversible
+- legal licensing is enforceable
+
+Competitors cannot recreate history.
+
+---
+
+### J.6 Risk Profile
+
+Primary risks:
+- slow institutional adoption
+- regulatory learning curve
+- education of stakeholders
+
+Primary mitigations:
+- modular deployment
+- sovereignty-preserving design
+- treaty readiness
+- compatibility with existing standards
+
+---
+
+### J.7 Why Early Partners Matter
+
+Early partners:
+- shape standards
+- access the deepest RWD datasets
+- build long-term data moats
+- participate in future governance
+
+DGCP rewards patience, not hype.
+
+---
+ 
