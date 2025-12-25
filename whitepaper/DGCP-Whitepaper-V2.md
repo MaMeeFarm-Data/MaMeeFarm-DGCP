@@ -2686,4 +2686,150 @@ DGCP grows at the speed of life.
 Anything faster would not be real.
 
 ---
+---
+
+## 9. Proof Accumulation as the Only Valid Signal of Progress
+
+DGCP V2 does not measure progress through adoption numbers,
+press coverage, or institutional endorsement.
+
+The only valid signal of progress is **proof accumulation over time**.
+
+---
+
+### 9.1 Why Activity Metrics Fail
+
+Conventional systems rely on:
+- number of users
+- volume of transactions
+- platform growth
+- market signals
+
+These metrics can be simulated, inflated, or fabricated.
+
+Reality cannot.
+
+---
+
+### 9.2 Proof as a Compound Asset
+
+Each DGCP proof:
+- anchors a moment in time
+- preserves environmental context
+- records human labor
+- links to irreversible cryptographic timestamps
+
+As proofs accumulate, they compound in value,
+not through scale, but through **continuity**.
+
+---
+
+### 9.3 Density Over Visibility
+
+DGCP values:
+- dense timelines
+- uninterrupted sequences
+- transparent corrections
+- natural variance
+
+A continuous 30-day record is more meaningful
+than thousands of isolated proofs.
+
+---
+
+### 9.4 Why Accumulation Cannot Be Accelerated
+
+Proof accumulation depends on:
+- daily work
+- daily observation
+- daily environmental change
+- daily human presence
+
+No external force can compress this process
+without destroying authenticity.
+
+---
+
+### 9.5 Long-Term Implication
+
+As proof accumulates:
+- falsification becomes statistically impossible
+- reconstruction becomes evident
+- governance rules gain legitimacy
+- economic value emerges naturally
+
+DGCP advances only as fast as proof grows.
+
+---
+---
+
+## 10. Early Governance Signals Emerging From Practice
+
+DGCP V2 governance is not deployed.
+It is **emerging**.
+
+This section documents the earliest observable governance patterns
+forming through real-world operation.
+
+---
+
+### 10.1 Governance Begins With Behavior
+
+Before formal rules exist, governance appears as:
+- how errors are reported
+- how corrections are written
+- how omissions are explained
+- how continuity is preserved
+
+These behaviors precede policy.
+
+---
+
+### 10.2 Transparency as a Primitive Rule
+
+Early DGCP operation shows that:
+- mistakes are logged, not hidden
+- gaps are explained, not optimized away
+- imperfect records are preserved
+
+Transparency becomes governance
+before governance is named.
+
+---
+
+### 10.3 Validator Roles Before Titles
+
+Without formal assignment, roles emerge naturally:
+
+- origin validators (field-level actors)
+- coherence observers (pattern checkers)
+- continuity guardians (ledger maintainers)
+
+Governance forms bottom-up,
+rooted in necessity rather than authority.
+
+---
+
+### 10.4 Why Early Signals Matter
+
+These early signals:
+- cannot be recreated later
+- reveal the ethical spine of the system
+- define future rule boundaries
+- prevent retroactive governance capture
+
+They are governance fossils
+embedded in the early ledger.
+
+---
+
+### 10.5 Preserving Pre-Formal Governance
+
+DGCP intentionally records governance
+before standardization.
+
+This ensures that future rules
+remain accountable to their origin.
+
+---
 
