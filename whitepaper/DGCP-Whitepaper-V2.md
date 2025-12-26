@@ -2833,3 +2833,151 @@ remain accountable to their origin.
 
 ---
 
+---
+
+## 11. Error Transparency as a Structural Feature
+
+DGCP V2 treats errors not as failures,
+but as **structural signals of authenticity**.
+
+In real-world systems, the absence of error
+is more suspicious than its presence.
+
+---
+
+### 11.1 Why Errors Are Evidence
+
+Real work produces:
+- delays
+- omissions
+- misalignment
+- corrections
+- interruptions
+
+DGCP preserves these signals
+because fabricated systems tend to erase them.
+
+---
+
+### 11.2 Error Logging Without Optimization
+
+DGCP V2 requires that:
+- errors are logged as they occur
+- explanations are written in human language
+- corrections are appended, not replaced
+- original records remain intact
+
+Optimization after the fact is prohibited.
+
+---
+
+### 11.3 Error Patterns as Verification Signals
+
+Over time, error patterns reveal:
+- human rhythm
+- workload reality
+- environmental constraints
+- operational honesty
+
+These patterns cannot be synthetically generated
+without long-term exposure to real conditions.
+
+---
+
+### 11.4 Why Transparency Strengthens Governance
+
+When errors are visible:
+- trust becomes unnecessary
+- audits become reproducible
+- governance rules gain legitimacy
+- manipulation becomes statistically detectable
+
+Transparency replaces authority.
+
+---
+
+### 11.5 Long-Term Impact
+
+Preserved errors become:
+- teaching material
+- audit anchors
+- governance precedents
+- historical context
+
+DGCP records reality as it is,
+not as it is wished to be.
+
+---
+---
+
+## 12. Continuity Gaps and the Meaning of Absence
+
+DGCP V2 recognizes that continuity
+does not mean uninterrupted perfection.
+
+Gaps are part of reality.
+
+---
+
+### 12.1 Absence as Information
+
+Missing proofs may indicate:
+- weather disruption
+- human fatigue
+- equipment failure
+- safety constraints
+- biological pause
+- intentional non-action
+
+Absence carries meaning when acknowledged.
+
+---
+
+### 12.2 Documenting Gaps Without Reconstruction
+
+DGCP requires that:
+- gaps are noted explicitly
+- reasons are stated when known
+- no synthetic backfilling occurs
+- timelines remain honest
+
+Reconstruction is more damaging than absence.
+
+---
+
+### 12.3 Why Gaps Increase Credibility
+
+Perfect continuity suggests:
+- automation
+- simulation
+- curation
+
+Honest gaps suggest:
+- human presence
+- lived constraints
+- environmental reality
+
+DGCP trusts irregularity over smoothness.
+
+---
+
+### 12.4 Gap Analysis Over Time
+
+Over long durations, gaps help:
+- identify stress points
+- understand labor limits
+- model real operational capacity
+- inform future governance rules
+
+Gaps teach what continuity hides.
+
+---
+
+### 12.5 Preserving the Negative Space
+
+DGCP preserves not only what happened,
+but also what did not.
+
+This negative space is part of truth.
+
+---
