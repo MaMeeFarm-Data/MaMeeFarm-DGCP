@@ -2981,3 +2981,82 @@ but also what did not.
 This negative space is part of truth.
 
 ---
+---
+
+## 13. Why DGCP Documents Reality Before Consensus
+
+DGCP V2 is built on a simple but uncommon principle:
+**reality must be documented before it is agreed upon**.
+
+Most systems seek consensus first,
+then record outcomes.
+DGCP reverses this order.
+
+---
+
+### 13.1 The Risk of Consensus-First Systems
+
+When consensus precedes documentation:
+- dominant voices shape narratives
+- inconvenient facts are delayed or omitted
+- minority realities are overwritten
+- history becomes negotiable
+
+Truth becomes dependent on agreement,
+not occurrence.
+
+---
+
+### 13.2 Documentation as the First Act
+
+DGCP requires that:
+- events are recorded as they happen
+- proofs exist before interpretation
+- timestamps precede explanation
+- evidence survives disagreement
+
+Consensus may follow.
+Reality must come first.
+
+---
+
+### 13.3 Disagreement as a Feature, Not a Bug
+
+In DGCP:
+- multiple interpretations may coexist
+- debate does not invalidate proof
+- disagreement does not erase evidence
+
+The ledger preserves reality
+so that future analysis remains possible.
+
+---
+
+### 13.4 Long-Term Value of Pre-Consensus Records
+
+Records captured before consensus:
+- resist political pressure
+- outlive institutional shifts
+- remain analyzable decades later
+- protect minority or inconvenient truths
+
+DGCP secures history
+before history is argued.
+
+---
+
+### 13.5 Why This Matters for Global Systems
+
+At global scale:
+- consensus is slow
+- politics is inevitable
+- power dynamics fluctuate
+
+A system that waits for agreement
+will always lag reality.
+
+DGCP moves ahead of consensus,
+anchoring truth in time
+so the world can argue honestly later.
+
+---
