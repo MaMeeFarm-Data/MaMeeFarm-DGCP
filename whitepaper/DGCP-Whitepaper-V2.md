@@ -3060,3 +3060,150 @@ anchoring truth in time
 so the world can argue honestly later.
 
 ---
+---
+
+## 14. Observation Before Optimization
+
+DGCP V2 establishes a strict ordering:
+**observe first, optimize later — if ever**.
+
+Optimization without sufficient observation
+introduces bias, distortion, and premature assumptions.
+
+---
+
+### 14.1 Why Early Optimization Is Dangerous
+
+Early optimization often:
+- removes natural variability
+- hides operational friction
+- erases human error signals
+- compresses time-dependent evidence
+
+In reality-based systems,
+these “imperfections” are critical data.
+
+---
+
+### 14.2 Observation as a Primary Data Source
+
+DGCP prioritizes:
+- long-form observation
+- repeated daily routines
+- slow pattern emergence
+- unfiltered environmental change
+
+Only sustained observation
+reveals what truly matters.
+
+---
+
+### 14.3 Optimization Requires Historical Context
+
+Optimization is meaningful only when:
+- baseline behavior is well understood
+- anomalies are distinguishable from norms
+- long-term rhythms are visible
+- unintended consequences can be detected
+
+DGCP delays optimization
+until evidence earns it.
+
+---
+
+### 14.4 Protection Against Performance Theater
+
+By refusing early optimization,
+DGCP prevents:
+- cosmetic improvements
+- selective reporting
+- appearance-driven metrics
+- narrative engineering
+
+Truth is allowed to look inefficient.
+
+---
+
+### 14.5 Long-Term Benefit
+
+Observation-first systems:
+- age better
+- remain auditable
+- support scientific inquiry
+- resist manipulation
+
+DGCP chooses patience over polish.
+
+---
+---
+
+## 15. Slow Data as a Defense Against Synthetic Speed
+
+DGCP V2 introduces the concept of **slow data**:
+data that grows at the pace of real human life.
+
+This slowness is not a limitation.
+It is a defense mechanism.
+
+---
+
+### 15.1 The Threat of Synthetic Speed
+
+Synthetic systems can:
+- generate massive volumes instantly
+- simulate activity at scale
+- overwhelm slower, real signals
+- distort perception of reality
+
+Speed becomes a weapon against truth.
+
+---
+
+### 15.2 Why Real Work Is Inherently Slow
+
+Real-world data depends on:
+- physical movement
+- biological cycles
+- environmental change
+- human endurance
+- daily repetition
+
+These cannot be accelerated
+without becoming artificial.
+
+---
+
+### 15.3 Slow Data as Authenticity Filter
+
+DGCP’s slow accumulation:
+- exposes fabricated bursts
+- reveals unnatural consistency
+- highlights missing context
+- enforces temporal honesty
+
+Only real life sustains long timelines.
+
+---
+
+### 15.4 Strategic Implication
+
+In a world of fast data,
+slow data becomes scarce.
+
+Scarcity creates value,
+credibility, and trust
+without marketing or amplification.
+
+---
+
+### 15.5 Why DGCP Embraces Slowness
+
+DGCP accepts that:
+- truth is not viral
+- reality does not scale instantly
+- endurance outperforms speed
+
+Slow data protects the future
+from the illusions of acceleration.
+
+---
