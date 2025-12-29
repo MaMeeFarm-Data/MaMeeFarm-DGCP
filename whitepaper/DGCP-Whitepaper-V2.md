@@ -3347,3 +3347,79 @@ DGCP protects the raw layer of truth
 so history remains analyzable.
 
 ---
+---
+
+## 18. Why DGCP Preserves Uncertainty Instead of Forcing Clarity
+
+DGCP V2 intentionally preserves uncertainty
+where reality itself is uncertain.
+
+Clarity is not always truth.
+Sometimes, uncertainty is the most honest record.
+
+---
+
+### 18.1 The Danger of Premature Clarity
+
+Systems that force clarity too early often:
+- over-interpret incomplete data
+- hide ambiguity behind conclusions
+- convert observation into assertion
+- mistake confidence for correctness
+
+Reality does not resolve on command.
+
+---
+
+### 18.2 Uncertainty as a Data Signal
+
+In DGCP, uncertainty may arise from:
+- incomplete observation windows
+- environmental variability
+- biological fluctuation
+- human timing differences
+- missing or partial records
+
+These conditions are recorded,
+not corrected away.
+
+---
+
+### 18.3 How DGCP Records Uncertainty
+
+DGCP preserves uncertainty by:
+- allowing open-ended notes
+- documenting multiple possible explanations
+- avoiding forced categorization
+- keeping provisional interpretations provisional
+
+Evidence remains intact
+while meaning remains open.
+
+---
+
+### 18.4 Why This Strengthens Verification
+
+When uncertainty is preserved:
+- later data can resolve earlier ambiguity
+- audits remain honest
+- reinterpretation is possible
+- false certainty cannot propagate
+
+DGCP prefers delayed understanding
+to permanent distortion.
+
+---
+
+### 18.5 Long-Term Value of Uncertainty
+
+Over time, uncertainty becomes:
+- a marker of authenticity
+- a boundary against narrative capture
+- a signal of human presence
+- a safeguard for future analysis
+
+Truth does not require immediate certainty.
+It requires fidelity to what was known at the time.
+
+---
