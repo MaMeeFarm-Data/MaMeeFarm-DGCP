@@ -3423,3 +3423,158 @@ Truth does not require immediate certainty.
 It requires fidelity to what was known at the time.
 
 ---
+---
+
+## 19. Why DGCP Treats Time as an Irreplaceable Resource
+
+DGCP V2 treats time not as a variable to be optimized,
+but as an irreplaceable resource that cannot be substituted.
+
+Once time has passed, it cannot be regenerated,
+only recorded or lost.
+
+---
+
+### 19.1 Time Cannot Be Simulated
+
+Synthetic systems may simulate activity,
+but they cannot simulate lived time.
+
+Time carries:
+- accumulation of context
+- memory of error
+- environmental progression
+- biological rhythm
+- human endurance
+
+DGCP records time because it cannot be recreated.
+
+---
+
+### 19.2 Time as Structural Capital
+
+In DGCP, accumulated time becomes:
+- historical depth
+- audit strength
+- falsification resistance
+- governance legitimacy
+- economic defensibility
+
+Time compounds truth
+without amplification or promotion.
+
+---
+
+### 19.3 Why Speed Destroys Temporal Value
+
+Acceleration without necessity:
+- compresses observation windows
+- removes variability
+- hides adaptation
+- weakens pattern emergence
+
+DGCP resists speed
+to preserve temporal integrity.
+
+---
+
+### 19.4 Time Creates Asymmetry Against Fabrication
+
+Fabrication can be fast.
+Reality cannot.
+
+This asymmetry ensures that:
+- staged systems reveal themselves
+- reconstructed histories fail verification
+- long-lived truth outlasts short-lived claims
+
+Time is DGCP’s strongest moat.
+
+---
+
+### 19.5 Recording Time as an Ethical Choice
+
+Recording time honestly means:
+- accepting slowness
+- preserving imperfection
+- refusing shortcuts
+- allowing truth to mature
+
+DGCP chooses time
+over efficiency.
+
+---
+---
+
+## 20. Why DGCP Cannot Be Rewritten Without Being Detected
+
+DGCP V2 is designed so that any attempt to rewrite history
+introduces detectable inconsistencies.
+
+Rewriting is not forbidden by authority.
+It is prevented by structure.
+
+---
+
+### 20.1 The Impossibility of Perfect Reconstruction
+
+To rewrite DGCP data, an attacker would need to replicate:
+- exact timestamps
+- environmental conditions
+- biological states
+- error distributions
+- continuity gaps
+- long-term behavior patterns
+
+This level of reconstruction is infeasible.
+
+---
+
+### 20.2 Structural Inconsistency as Detection
+
+DGCP exposes rewriting attempts through:
+- temporal misalignment
+- environmental mismatch
+- biological rhythm breaks
+- unnatural smoothness
+- ledger discontinuities
+
+The system reveals tampering
+without external accusation.
+
+---
+
+### 20.3 Append-Only as a Detection Mechanism
+
+Append-only design ensures that:
+- original records remain visible
+- modifications add evidence of change
+- absence of change is verifiable
+- history cannot be silently altered
+
+Detection replaces prohibition.
+
+---
+
+### 20.4 Why Detection Matters More Than Prevention
+
+Prevention depends on enforcement.
+Detection depends on truth.
+
+DGCP prioritizes detection
+so verification remains independent of power.
+
+---
+
+### 20.5 Long-Term Consequence
+
+A system that cannot be rewritten undetected:
+- preserves minority realities
+- resists institutional capture
+- supports legal defensibility
+- remains analyzable across generations
+
+DGCP secures history
+by making falsification visible.
+
+---
