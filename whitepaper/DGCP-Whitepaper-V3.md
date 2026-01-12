@@ -193,3 +193,44 @@ It is a sign that narratives are searching for new footing.
 DGCP V3 records this moment without judgment.
 
 Silence is data.
+## V3 — Weekly Entry #2  
+### When Truth Stops Asking for Attention
+
+There is a moment when truth no longer seeks recognition.
+
+In earlier phases, truth needed visibility.
+It had to be explained, defended, repeated,
+and sometimes simplified to be heard.
+
+That phase does not last forever.
+
+When truth becomes verifiable, time-anchored,
+and independent of interpretation,
+it gradually stops asking for attention.
+
+Not because it has been accepted,
+but because it no longer depends on response.
+
+Attention belongs to narratives.
+Truth belongs to presence.
+
+As proof accumulates quietly,
+the burden shifts away from explanation
+and toward adaptation.
+
+Those who rely on persuasion feel the silence first.
+Those who rely on authority feel the delay.
+Those who rely on narrative feel the discomfort.
+
+Truth does not accelerate to compensate.
+It remains still.
+
+This stillness is not strategy.
+It is a property of reality once it becomes durable.
+
+DGCP V3 records this transition without urgency.
+
+When truth stops asking for attention,
+the world must decide how to live with it.
+
+
