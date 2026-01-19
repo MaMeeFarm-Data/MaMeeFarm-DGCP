@@ -233,4 +233,40 @@ DGCP V3 records this transition without urgency.
 When truth stops asking for attention,
 the world must decide how to live with it.
 
+## V3 — Weekly Entry #3  
+### When Institutions Hesitate, Not Because They Doubt, But Because They See
+
+There is a specific kind of hesitation that does not come from disbelief.
+
+It comes from recognition.
+
+When institutions encounter truth that is verifiable, time-anchored,
+and independent of authority, the first response is often not rejection,
+but pause.
+
+This pause is not confusion.
+It is recalibration.
+
+Institutions are built to operate within negotiable realities:
+reports that can be revised,
+narratives that can be reframed,
+timelines that can be adjusted.
+
+Verifiable reality removes those options.
+
+When proof no longer bends,
+decision-making slows—not out of doubt,
+but out of awareness of consequence.
+
+To act on such truth requires more than agreement.
+It requires structural change.
+
+Hesitation, in this context, is not weakness.
+It is the moment when institutions realize
+that acknowledgment will eventually demand transformation.
+
+DGCP V3 records this hesitation without judgment.
+
+Seeing is not the end.
+It is the beginning of responsibility.
 
