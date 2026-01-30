@@ -270,3 +270,51 @@ DGCP V3 records this hesitation without judgment.
 Seeing is not the end.
 It is the beginning of responsibility.
 
+## V3 — Weekly Entry #4  
+### When Reality Is Acknowledged, But Not Looked At Directly
+
+There is a stage where reality is no longer denied,
+yet still not faced directly.
+
+At this point, truth has already been recognized.
+Its existence is not in question.
+Its evidence is intact.
+Its timeline is anchored.
+
+What changes is posture.
+
+Rather than confrontation or rejection,
+there emerges a subtle distance—
+a way of acknowledging reality
+without fully engaging with its implications.
+
+This distance is not ignorance.
+It is awareness without readiness.
+
+Looking directly at verifiable reality
+demands alignment.
+Alignment demands consequence.
+Consequence demands change.
+
+So attention shifts sideways.
+
+Reality is referenced,
+but not centered.
+It is noted,
+but not integrated.
+
+This behavior is not unique to institutions.
+It is deeply human.
+
+When truth becomes unavoidable,
+the most common response is not resistance,
+but delay through partial attention.
+
+DGCP V3 records this moment precisely
+because it is easy to miss.
+
+Reality does not disappear when it is not faced.
+It remains,
+patient and unchanged,
+waiting for readiness to catch up.
+
