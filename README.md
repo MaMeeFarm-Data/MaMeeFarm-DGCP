@@ -520,3 +520,129 @@ This work is licensed under the DGCP (Data Governance & Continuous Proof) framew
 All content is part of the MaMeeFarm™ Real-Work Data & Philosophy archive.  
 Redistribution, citation, or derivative use must preserve attribution and license reference.
 
+# DGCP Whitepaper Structure
+
+**Project:** MaMeeFarm™  
+**Framework:** DGCP™ — Data Governance & Continuous Proof  
+**Date:** 2026-03-28  
+**License:** DGCP | MMFARM-POL-2025  
+
+---
+
+## Overview
+
+This repository organizes DGCP Whitepapers based on **time and structural evolution**, not version replacement.
+
+DGCP does not rewrite history.  
+Each layer represents a **true state of understanding at a specific time**.
+
+---
+
+## Directory Structure
+
+whitepaper/
+│
+├── archive/
+│ ├── DGCP-Whitepaper-v1.md
+│ ├── DGCP-Whitepaper-V2.md
+│ └── DGCP-Whitepaper-V3.md
+│
+└── current/
+└── DGCP-Whitepaper-V4.md
+
+
+---
+
+## Layer Explanation
+
+### V1 — Reality Layer
+- Raw real-world documentation  
+- Human-origin truth  
+- No abstraction  
+
+---
+
+### V2 — Architecture Layer
+- System structure  
+- Verification logic  
+- Global scalability design  
+
+---
+
+### V3 — Observation Layer
+- Behavioral response to truth  
+- Silence, hesitation, avoidance  
+- No system redesign  
+
+---
+
+### V4 — Structural Reality Layer (Current)
+- System repositioning  
+- Structural adjustment patterns  
+- No announcement-based change  
+- Focus on how reality influences structure  
+
+---
+
+## Archive vs Current
+
+### archive/
+- Immutable  
+- Historical truth  
+- No modification  
+
+### current/
+- Active layer  
+- Continuously evolving  
+- Reflects present structural state  
+
+---
+
+## Core Principle
+
+DGCP follows:
+
+> **Append-only truth system**
+
+- No retroactive edits  
+- No rewriting of past layers  
+- New understanding = new layer  
+
+---
+
+## Interpretation Rule
+
+- Past documents are not outdated  
+- They are **time-anchored truth states**  
+- Evolution is preserved, not corrected  
+
+---
+
+## System Nature
+
+DGCP is not a versioned document system.
+
+It is a:
+
+> **Time-structured knowledge system**
+
+Each file represents:
+- a moment in time  
+- a level of understanding  
+- a structural position  
+
+---
+
+## Maintainer
+
+**P’Toh — MaMeeFarm™**  
+Lampang, Thailand  
+
+---
+
+## License
+
+DGCP | MMFARM-POL-2025  
+
+This work is part of the DGCP framework.  
+All rights reserved under DGCP governance principles.  
