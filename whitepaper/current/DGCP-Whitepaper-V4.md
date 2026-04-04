@@ -74,3 +74,37 @@ where truth begins to influence form.
 
 Not through force,
 but through presence.
+
+## V4 — Entry #2  
+### When Alignment Becomes Selective
+
+Structural adjustment does not occur evenly.
+
+After initial repositioning, systems do not transform as a whole.
+They begin to align in parts.
+
+Changes appear first where resistance is low.
+
+Peripheral processes adapt quietly.  
+Language softens at the edges.  
+Timelines become flexible in non-critical paths.  
+
+Core structures remain unchanged.
+
+This creates a pattern of selective alignment.
+
+From the outside, this may resemble gradual progress.
+But internally, it reflects controlled movement.
+
+Systems adjust where consequences are manageable,
+while maintaining stability where change would be irreversible.
+
+This is not inconsistency.
+It is structural prioritization.
+
+DGCP V4 records this phase without interpretation.
+
+When alignment becomes selective,
+structure reveals its thresholds—
+what it can accommodate,
+and what it continues to resist.
