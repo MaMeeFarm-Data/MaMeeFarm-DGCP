@@ -108,3 +108,41 @@ When alignment becomes selective,
 structure reveals its thresholds—
 what it can accommodate,
 and what it continues to resist.
+
+## V4 — Entry #3  
+### When Selective Alignment Stabilizes
+
+Selective alignment does not remain transitional.
+
+Over time, what begins as partial adjustment
+starts to form a stable pattern.
+
+Changes that were once tentative
+become consistent in specific areas.
+
+Peripheral systems adapt continuously.  
+Language remains softened.  
+Flexible timelines persist.  
+
+Core structures still hold their position.
+
+This creates a new equilibrium.
+
+Alignment is no longer exploratory.
+It becomes repeatable.
+
+What was once a temporary response
+becomes an operational norm.
+
+At this stage, systems are no longer deciding whether to adjust.
+They have already determined where adjustment is acceptable.
+
+This is not full transformation.
+It is structured accommodation.
+
+DGCP V4 records this phase as stabilization.
+
+When selective alignment stabilizes,
+structure begins to define its long-term boundaries—
+not through declaration,
+but through repetition.
