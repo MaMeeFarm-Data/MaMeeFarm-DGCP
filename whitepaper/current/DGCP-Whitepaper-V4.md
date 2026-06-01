@@ -146,3 +146,49 @@ When selective alignment stabilizes,
 structure begins to define its long-term boundaries—
 not through declaration,
 but through repetition.
+
+
+## V4 — Entry #4
+
+### When Persistence Outlasts Attention
+
+Attention moves quickly.
+
+It shifts between priorities,
+events,
+narratives,
+and cycles of urgency.
+
+Reality does not.
+
+What remains visible after attention leaves
+often reveals more than what was visible during observation.
+
+Over time,
+systems may reduce focus.
+Discussion may slow.
+Interest may relocate.
+
+Yet persistent reality continues
+whether it is being observed or not.
+
+This creates an important distinction.
+
+Attention measures interest.
+
+Persistence measures structure.
+
+The durability of a condition
+cannot be determined by how often it is discussed,
+but by whether it continues to exist
+after attention has moved elsewhere.
+
+DGCP V4 records this phase carefully.
+
+The absence of attention
+is not evidence of absence.
+
+What persists beyond observation
+often defines the deeper structure.
+
+
