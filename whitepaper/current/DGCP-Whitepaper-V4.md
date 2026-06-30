@@ -191,4 +191,44 @@ is not evidence of absence.
 What persists beyond observation
 often defines the deeper structure.
 
+## V4 — Entry #5
+
+### When Continuity Becomes the Strongest Signal
+
+Time gradually separates temporary reactions
+from enduring structures.
+
+Some changes appear quickly
+and disappear just as quickly.
+
+Others remain.
+
+Continuity is not created through repetition alone.
+It is revealed through persistence across changing conditions.
+
+When reality continues to produce
+the same structural signals
+despite shifting environments,
+those signals become increasingly reliable.
+
+This is not because they resist change.
+
+It is because they continue to describe
+what remains fundamentally true.
+
+Over longer periods,
+continuity becomes more informative
+than isolated events.
+
+Short-term observations explain moments.
+
+Continuity explains systems.
+
+DGCP V4 records this phase
+as the emergence of continuity
+as a structural indicator.
+
+The longer reality preserves its pattern,
+the stronger that pattern becomes
+as evidence of underlying structure.
 
