@@ -232,3 +232,43 @@ The longer reality preserves its pattern,
 the stronger that pattern becomes
 as evidence of underlying structure.
 
+## V4 — Entry #6
+
+### When Structure Begins to Define Expectation
+
+As time passes, persistent structures begin to shape expectation.
+
+At first, continuity is observed.
+Later, it becomes anticipated.
+
+This transition is subtle.
+
+Reality has not changed.
+The structure has not accelerated.
+Only the observer's relationship with persistence has evolved.
+
+What repeatedly proves reliable
+gradually becomes a reference.
+
+Expectation, in this context,
+does not arise from prediction.
+
+It arises from repeated observation
+of what consistently remains true.
+
+This distinction is essential.
+
+Prediction projects into the future.
+
+Expectation recognizes the stability
+already demonstrated through time.
+
+DGCP V4 records this phase
+as the point where structural continuity
+begins to define expectation.
+
+The strongest expectations
+are not created by promises.
+
+They are created by reality
+that continues to confirm itself.
