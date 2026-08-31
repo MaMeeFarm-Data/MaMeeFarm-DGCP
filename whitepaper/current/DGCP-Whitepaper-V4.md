@@ -272,3 +272,52 @@ are not created by promises.
 
 They are created by reality
 that continues to confirm itself.
+## V4 — Entry #7
+
+### When Persistence Becomes a Reference Point
+
+A persistent structure eventually changes
+the way surrounding change is understood.
+
+At first, it is simply observed.
+
+Then it becomes familiar.
+
+Over time, what repeatedly remains stable
+begins to serve another function:
+
+it becomes a reference point.
+
+This does not mean that the structure
+is assumed to be permanent.
+
+Nor does it mean that future conditions
+can be inferred from past continuity.
+
+It means only that accumulated evidence
+has created a sufficiently stable baseline
+against which subsequent change can be observed.
+
+The distinction matters.
+
+A reference point does not predict.
+
+It allows comparison.
+
+New events can be examined against it.
+Deviations become easier to identify.
+Continuity becomes easier to distinguish
+from temporary variation.
+
+The value of persistence therefore changes with time.
+
+What began as evidence of continuity
+gradually becomes part of the measurement environment itself.
+
+DGCP V4 records this transition carefully.
+
+When persistence becomes a reference point,
+reality does not become fixed.
+
+It becomes easier to observe
+what has actually changed.
