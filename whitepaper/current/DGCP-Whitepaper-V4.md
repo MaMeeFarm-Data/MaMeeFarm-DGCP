@@ -36,7 +36,7 @@ without forcing interpretation.
 
 ---
 
-## V4 — Entry #1  
+## V4 - Entry #1  
 ### When Structure Begins to Adjust
 
 There is a point at which systems
@@ -75,7 +75,7 @@ where truth begins to influence form.
 Not through force,
 but through presence.
 
-## V4 — Entry #2  
+## V4 - Entry #2  
 ### When Alignment Becomes Selective
 
 Structural adjustment does not occur evenly.
@@ -109,7 +109,7 @@ structure reveals its thresholds—
 what it can accommodate,
 and what it continues to resist.
 
-## V4 — Entry #3  
+## V4 - Entry #3  
 ### When Selective Alignment Stabilizes
 
 Selective alignment does not remain transitional.
@@ -148,7 +148,7 @@ not through declaration,
 but through repetition.
 
 
-## V4 — Entry #4
+## V4 - Entry #4
 
 ### When Persistence Outlasts Attention
 
@@ -191,7 +191,7 @@ is not evidence of absence.
 What persists beyond observation
 often defines the deeper structure.
 
-## V4 — Entry #5
+## V4 - Entry #5
 
 ### When Continuity Becomes the Strongest Signal
 
@@ -232,7 +232,7 @@ The longer reality preserves its pattern,
 the stronger that pattern becomes
 as evidence of underlying structure.
 
-## V4 — Entry #6
+## V4 - Entry #6
 
 ### When Structure Begins to Define Expectation
 
@@ -272,7 +272,7 @@ are not created by promises.
 
 They are created by reality
 that continues to confirm itself.
-## V4 — Entry #7
+## V4 - Entry #7
 
 ### When Persistence Becomes a Reference Point
 
@@ -321,3 +321,51 @@ reality does not become fixed.
 
 It becomes easier to observe
 what has actually changed.
+
+## V4 - Entry #8  
+### When Change Becomes Visible Against the Reference
+
+A reference point changes
+what observation can reveal.
+
+Once continuity has established
+a sufficiently stable basis for comparison,
+subsequent observations can be examined
+in relation to what was previously observed.
+
+This does not make the reference permanent.
+
+It does not establish
+what should happen next.
+
+It simply makes difference more visible.
+
+Some observations may remain consistent
+with the established reference.
+
+Others may begin to diverge.
+
+Neither continuity nor divergence,
+by itself,
+explains why a change has occurred.
+
+They indicate only that the observed relationship
+between the present condition
+and the existing reference has changed.
+
+This distinction preserves
+the boundary between observation
+and interpretation.
+
+A reference point supports comparison.
+
+It does not determine meaning.
+
+DGCP V4 records this phase
+as the point where accumulated continuity
+allows structural change to become
+more clearly observable.
+
+The reference does not predict the change.
+
+It allows the change to be seen.
